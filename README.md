@@ -22,7 +22,6 @@ El objetivo del proyecto no es que los ocho mazos ganen exactamente en el mismo 
 - [Ral, Monsoon Mage](#ral)
 - [Yuriko, the Tiger's Shadow](#yuriko)
 - [Etali, Primal Conqueror](#etali)
-- [Fuentes y criterios](#fuentes-y-criterios)
 
 ## Filosofía de balance
 
@@ -56,33 +55,33 @@ Los ocho mazos son cEDH reales y pueden compartir mesa. No obstante, no son perf
 
 En las primeras partidas, **Kinnan y Najeela** pueden rendir por encima de su posición porque sus planes son fáciles de visualizar. **RogSi, Ral y Magda** mejoran mucho cuando el piloto conoce sus líneas y mulligans.
 
-## Formato recomendado para el evento
+## Formato del evento
 
-1. Formar dos pods de cuatro jugadores.
-2. Jugar una primera ronda con asignación de mazos sorteada.
-3. Intercambiar los mazos en cada ronda; ningún jugador debería repetir mazo hasta haber usado varios distintos.
-4. Permitir que cada piloto consulte esta guía durante la partida.
-5. Dar unos minutos antes de comenzar para leer el mulligan, las líneas principales y el error frecuente del mazo asignado.
-6. Reordenar los pods según resultados o mediante sorteo, según el nivel de competitividad deseado.
+- En cada ronda se forman **dos pods aleatorios de cuatro jugadores**.
+- Los pods se vuelven a sortear en cada ronda.
+- Los mazos también se asignan de forma aleatoria.
+- Se lleva un registro de qué mazos utilizó cada jugador para intentar evitar repeticiones.
+- Si una asignación aleatoria repite un mazo que el jugador ya usó y existen alternativas disponibles, se vuelve a sortear ese mazo.
+- Todos los mazos se entregan ya enfundados y acompañados por sus fichas, contadores y tokens correspondientes.
+- Cada guía permanece junto a su mazo y puede consultarse durante la partida.
+- Antes de comenzar, cada jugador dispone de unos minutos para revisar el mulligan, las líneas principales y los errores frecuentes del mazo asignado.
 
 El desafío debería ser **decidir cuándo actuar, evaluar amenazas y navegar la pila**, no memorizar una lista prestada de cien cartas.
 
-## Reglas para intercambiar mazos
 
-- La guía permanece junto al mazo.
+## Reglas para la asignación y rotación de mazos
+
+- La asignación de mazos se realiza al azar en cada ronda.
+- Se utiliza un tracking por jugador para registrar qué mazos ya utilizó.
+- Se intenta que ningún jugador repita mazo mientras todavía tenga opciones no utilizadas.
+- Los mazos se entregan completos, ya enfundados y con todos sus tokens, fichas y ayudas de memoria necesarias.
+- La guía correspondiente permanece junto al mazo.
 - Los jugadores pueden revisar la lista completa antes de hacer mulligan.
 - Las líneas de combo pueden consultarse durante la partida.
 - El propietario del conjunto puede aclarar una interacción de reglas, pero no tomar decisiones estratégicas por el piloto.
 - Conviene anotar maná flotante, storm y acciones de loops largos.
-- Para los loops deterministas, se puede declarar el número de repeticiones una vez demostrado el ciclo.
-- Antes del torneo, todas las cartas deberían estar enfundadas de manera idéntica y usar fichas o ayudas de memoria claras.
+- Para los loops deterministas, se puede declarar el número de repeticiones una vez demostrado correctamente el ciclo.
 
-## Cambios deliberados para facilitar la rotación
-
-- **Tymna/Kraum:** se simplificó el final alrededor de Thassa's Oracle, Demonic Consultation y Tainted Pact.
-- **Ral:** `________ Goblin` fue reemplazado por **Baral, Chief of Compliance**, evitando utilizar hojas de stickers.
-- **Etali:** `________ Goblin` fue reemplazado por **Generator Servant** por el mismo motivo, manteniendo aceleración hacia el comandante.
-- Los demás shells conservan su identidad competitiva y no fueron reducidos a mazos casuales de alto poder.
 
 ---
 
@@ -1415,14 +1414,6 @@ Genera una gran explosión de maná, resuelve a Etali o un combo compacto de cop
 
 ---
 
-## Fuentes y criterios
-
-Las listas se construyeron utilizando:
-
-- Los ocho archivos CSV exportados desde [EDHREC](https://edhrec.com/) como referencia de cartas y arquetipos.
-- Shells y resultados competitivos de [EDHTop16](https://edhtop16.com/) como referencia de construcción.
-- La [lista oficial de cartas prohibidas y restringidas](https://magic.wizards.com/en/banned-restricted-list) para la validación inicial.
-- Criterios de accesibilidad para que cada mazo tenga un plan principal reconocible, un plan secundario y una guía de mulligan utilizable por jugadores que rotan entre listas.
 
 ## Aviso
 
