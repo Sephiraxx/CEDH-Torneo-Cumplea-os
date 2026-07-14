@@ -1,5 +1,16 @@
 # Birthday cEDH Gauntlet
 
+Repositorio preparado para publicarse mediante **GitHub Pages**.
+
+- La portada del sitio se genera desde `index.md`.
+- Las guías y listas están en `mazos-y-guias/`.
+- La configuración de Jekyll está en `_config.yml`.
+- Las instrucciones de publicación están en `PUBLICAR_EN_GITHUB_PAGES.md`.
+
+> Una vez publicado, la URL tendrá el formato `https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/`.
+
+---
+
 Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, preparados para un torneo de ocho jugadores en el que los participantes pueden intercambiar mazos entre rondas.
 
 El objetivo del proyecto no es que los ocho mazos ganen exactamente en el mismo turno. La intención es que todos pertenezcan al mismo entorno competitivo y que cada uno tenga una posibilidad real de ganar la misma mesa desde un eje diferente: turbo, midrange, storm, combate, toolbox, tempo o combo de criaturas.

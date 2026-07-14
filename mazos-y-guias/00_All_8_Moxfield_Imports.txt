@@ -1,0 +1,861 @@
+============================================================
+RogSi — Rograkh / Silas Renn
+============================================================
+
+Commander
+1 Rograkh, Son of Rohgahh
+1 Silas Renn, Seeker Adept
+
+Deck
+1 Ragavan, Nimble Pilferer
+1 Hexing Squelcher
+1 Thassa's Oracle
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Simian Spirit Guide
+1 Valley Floodcaller
+1 Gamble
+1 Gitaxian Probe
+1 Imperial Seal
+1 Infernal Plunge
+1 Rite of Flame
+1 Demonic Counsel
+1 Demonic Tutor
+1 Diabolic Intent
+1 Last Chance
+1 Jeska's Will
+1 Mnemonic Betrayal
+1 Praetor's Grasp
+1 Timetwister
+1 Wheel of Fortune
+1 Yawgmoth's Will
+1 Beseech the Mirror
+1 Pact of Negation
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Culling the Weak
+1 Dark Ritual
+1 Demonic Consultation
+1 Flusterstorm
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mystical Tutor
+1 Pyroblast
+1 Rain of Filth
+1 Red Elemental Blast
+1 Swan Song
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Cabal Ritual
+1 Daze
+1 Final Fortune
+1 Snapback
+1 Tainted Pact
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flare of Duplication
+1 Force of Negation
+1 Mindbreak Trap
+1 Ad Nauseam
+1 Force of Will
+1 Misdirection
+1 Commandeer
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Paradise Mantle
+1 Mana Vault
+1 Sol Ring
+1 Springleaf Drum
+1 Vexing Bauble
+1 Arcane Signet
+1 Defense Grid
+1 Fellwar Stone
+1 Grim Monolith
+1 Grinding Station
+1 Wishclaw Talisman
+1 Mystic Remora
+1 Guild Artisan
+1 Underworld Breach
+1 Necrodominance
+1 Necropotence
+1 Rhystic Study
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Blood Crypt
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Marsh Flats
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Phyrexian Tower
+1 Polluted Delta
+1 Scalding Tarn
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Watery Grave
+1 Wooded Foothills
+
+
+============================================================
+Blue Farm — Tymna / Kraum
+============================================================
+
+Commander
+1 Tymna the Weaver
+1 Kraum, Ludevic's Opus
+
+Deck
+1 Dragon's Rage Channeler
+1 Esper Sentinel
+1 Mockingbird
+1 Ragavan, Nimble Pilferer
+1 Faerie Mastermind
+1 Flamescroll Celebrant // Revel in Silence
+1 Grand Abolisher
+1 Lotho, Corrupt Shirriff
+1 Mayhem Devil
+1 Professional Face-Breaker
+1 Ranger-Captain of Eos
+1 Simian Spirit Guide
+1 Valley Floodcaller
+1 Storm-Kiln Artist
+1 Thassa's Oracle
+1 Gamble
+1 Imperial Seal
+1 Rite of Flame
+1 Scheming Symmetry
+1 Demonic Tutor
+1 Diabolic Intent
+1 Mnemonic Betrayal
+1 Sevinne's Reclamation
+1 Pact of Negation
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Dark Ritual
+1 Dispel
+1 Enlightened Tutor
+1 Firestorm
+1 Flusterstorm
+1 Into the Flood Maw
+1 Mental Misstep
+1 Mystical Tutor
+1 Orim's Chant
+1 Rain of Filth
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Silence
+1 Swan Song
+1 Vampiric Tutor
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Final Fortune
+1 Permission Denied
+1 Tainted Pact
+1 Trickbind
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flare of Duplication
+1 Force of Negation
+1 Intuition
+1 Sink into Stupor
+1 Gifts Ungiven
+1 Mindbreak Trap
+1 Ad Nauseam
+1 Force of Will
+1 Commandeer
+1 Demonic Consultation
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Diamond
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Arcane Signet
+1 Imposter Mech
+1 Mystic Remora
+1 Underworld Breach
+1 Copy Enchantment
+1 Mirrormade
+1 Rhystic Study
+1 Smothering Tithe
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Exotic Orchard
+1 Flooded Strand
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plateau
+1 Polluted Delta
+1 Scalding Tarn
+1 Scrubland
+1 Starting Town
+1 Tarnished Citadel
+1 Tundra
+1 Underground Sea
+1 Volcanic Island
+1 Watery Grave
+
+
+============================================================
+Kinnan, Bonder Prodigy
+============================================================
+
+Commander
+1 Kinnan, Bonder Prodigy
+
+Deck
+1 Birds of Paradise
+1 Delighted Halfling
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Gene Pollinator
+1 Llanowar Elves
+1 Mockingbird
+1 Faerie Mastermind
+1 Flesh Duplicate
+1 Thrasios, Triton Hero
+1 Volatile Stormdrake
+1 Wan Shi Tong, Librarian
+1 Drift of Phantasms
+1 Elvish Spirit Guide
+1 Endurance
+1 Enduring Vitality
+1 The Cabbage Merchant
+1 Trophy Mage
+1 Valley Floodcaller
+1 Clever Impersonator
+1 High Fae Trickster
+1 Consecrated Sphinx
+1 Colossal Skyturtle
+1 Hullbreaker Horror
+1 Emrakul, the Promised End
+1 Finale of Devastation
+1 Hidden Strings
+1 Nature's Rhythm
+1 Transmute Artifact
+1 Flash Photography
+1 Pact of Negation
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Dispel
+1 Dizzy Spell
+1 Flusterstorm
+1 Mental Misstep
+1 Swan Song
+1 Borne Upon a Wind
+1 Disrupting Shoal
+1 Dramatic Reversal
+1 Snapback
+1 Twincast
+1 Chord of Calling
+1 Fierce Guardianship
+1 Force of Negation
+1 Sink into Stupor
+1 Mindbreak Trap
+1 Sudden Substitution
+1 Force of Will
+1 Misdirection
+1 Commandeer
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Springleaf Drum
+1 Arcane Signet
+1 Fellwar Stone
+1 Grim Monolith
+1 Imposter Mech
+1 Talisman of Curiosity
+1 Basalt Monolith
+1 Mirage Mirror
+1 The One Ring
+1 Mystic Remora
+1 Copy Artifact
+1 Sylvan Library
+1 Copy Enchantment
+1 Mirrormade
+1 Rhystic Study
+1 Invasion of Ikoria // Zilortha, Apex of Ikoria
+1 Ancient Tomb
+1 Boseiju, Who Endures
+1 Botanical Sanctum
+1 Breeding Pool
+1 City of Brass
+1 Command Tower
+1 Exotic Orchard
+1 Flooded Strand
+1 Forest
+1 Gemstone Caverns
+1 Island
+1 Mana Confluence
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Rejuvenating Springs
+1 Scalding Tarn
+1 Tarnished Citadel
+1 Tropical Island
+1 Verdant Catacombs
+1 Waterlogged Grove
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya Coast
+
+
+============================================================
+Magda, Brazen Outlaw
+============================================================
+
+Commander
+1 Magda, Brazen Outlaw
+
+Deck
+1 Tezzeret, Cruel Captain
+1 Bloodfire Dwarf
+1 Dwarven Armorer
+1 Dwarven Grunt
+1 Dwarven Scorcher
+1 Dwarven Trader
+1 Enslaved Dwarf
+1 Liberated Dwarf
+1 Spark Mage
+1 Universal Automaton
+1 Axgard Cavalry
+1 Magda, the Hoardmaster
+1 Metallic Mimic
+1 Three Tree Mascot
+1 Barkform Harvester
+1 Battered Golem
+1 Dwarven Bloodboiler
+1 Magus of the Moon
+1 Plundering Barbarian
+1 Professional Face-Breaker
+1 Simian Spirit Guide
+1 Xorn
+1 Gogo, Mysterious Mime
+1 Knuckles the Echidna
+1 Roaming Throne
+1 Treasonous Ogre
+1 Twinshot Sniper
+1 Pinnacle Monk // Mystic Peak
+1 Rite of Flame
+1 Molten Duplication
+1 Jeska's Will
+1 Galvanic Blast
+1 Lightning Bolt
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Rending Volley
+1 Abrade
+1 Desperate Ritual
+1 Return the Favor
+1 Siege Smash
+1 Sudden Shock
+1 Untimely Malfunction
+1 Chaos Warp
+1 Deflecting Swat
+1 Ghostfire Slice
+1 Bottle-Cap Blast
+1 Chrome Mox
+1 Clown Car
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Grafdigger's Cage
+1 Mana Vault
+1 Peter Parker's Camera
+1 Sol Ring
+1 Springleaf Drum
+1 Vexing Bauble
+1 Damping Sphere
+1 Grinding Station
+1 Liquimetal Torque
+1 Smuggler's Copter
+1 Stalactite Dagger
+1 Thorn of Amethyst
+1 Unlicensed Hearse
+1 Firdoch Core
+1 Lifecraft Engine
+1 Sculpting Steel
+1 Trinisphere
+1 Clock of Omens
+1 Maskwood Nexus
+1 Portal to Phyrexia
+1 Ancient Tomb
+1 Cavern of Souls
+1 City of Traitors
+1 Command Beacon
+1 Crystal Vein
+1 Forbidden Orchard
+1 Gemstone Caverns
+1 Great Furnace
+1 Hammerheim
+1 Kavaron, Memorial World
+1 Maze of Ith
+10 Mountain
+1 Shinka, the Bloodsoaked Keep
+1 Talon Gates of Madara
+1 Treasure Vault
+1 Urza's Saga
+1 Volatile Fault
+1 Wasteland
+
+
+============================================================
+Najeela, the Blade-Blossom
+============================================================
+
+Commander
+1 Najeela, the Blade-Blossom
+
+Deck
+1 Rograkh, Son of Rohgahh
+1 Birds of Paradise
+1 Esper Sentinel
+1 Ignoble Hierarch
+1 Noble Hierarch
+1 Ragavan, Nimble Pilferer
+1 Tinder Wall
+1 Hexing Squelcher
+1 Lotho, Corrupt Shirriff
+1 Thassa's Oracle
+1 Voice of Victory
+1 Derevi, Empyrial Tactician
+1 Elvish Spirit Guide
+1 Gornog, the Red Reaper
+1 Ranger-Captain of Eos
+1 Samut, Voice of Dissent
+1 Simian Spirit Guide
+1 The Cabbage Merchant
+1 Valley Floodcaller
+1 Gamble
+1 Imperial Seal
+1 Rite of Flame
+1 Demonic Tutor
+1 Diabolic Intent
+1 Eldritch Evolution
+1 Sevinne's Reclamation
+1 Culling Ritual
+1 Pact of Negation
+1 Summoner's Pact
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Crop Rotation
+1 Culling the Weak
+1 Dark Ritual
+1 Demonic Consultation
+1 Enlightened Tutor
+1 Flusterstorm
+1 Mental Misstep
+1 Mystical Tutor
+1 Silence
+1 Swan Song
+1 Swords to Plowshares
+1 Vampiric Tutor
+1 Veil of Summer
+1 Borne Upon a Wind
+1 Brain Freeze
+1 Cabal Ritual
+1 Final Fortune
+1 Manamorphose
+1 Tainted Pact
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Flare of Duplication
+1 Intuition
+1 Mindbreak Trap
+1 Ad Nauseam
+1 Force of Will
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Vexing Bauble
+1 Arcane Signet
+1 Fellwar Stone
+1 Mystic Remora
+1 Underworld Breach
+1 Necropotence
+1 Rhystic Study
+1 Ancient Tomb
+1 Arid Mesa
+1 Badlands
+1 Bayou
+1 Bloodstained Mire
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Emergence Zone
+1 Flooded Strand
+1 Gemstone Caverns
+1 Mana Confluence
+1 Marsh Flats
+1 Misty Rainforest
+1 Polluted Delta
+1 Savannah
+1 Scalding Tarn
+1 Scrubland
+1 Starting Town
+1 Taiga
+1 Tropical Island
+1 Tundra
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+1 Windswept Heath
+1 Wooded Foothills
+
+
+============================================================
+Ral, Monsoon Mage
+============================================================
+
+Commander
+1 Ral, Monsoon Mage // Ral, Leyline Prodigy
+
+Deck
+1 Ragavan, Nimble Pilferer
+1 Hexing Squelcher
+1 Tavern Scoundrel
+1 Baral, Chief of Compliance
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Electro, Assaulting Battery
+1 Simian Spirit Guide
+1 Storm-Kiln Artist
+1 Treasonous Ogre
+1 Gamble
+1 Gitaxian Probe
+1 Rite of Flame
+1 Strike It Rich
+1 Command Performance
+1 Grapeshot
+1 Hidden Strings
+1 Highway Robbery
+1 Quiet Speculation
+1 Reckless Impulse
+1 Recoup
+1 Rob the Archives
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Witch's Mark
+1 Wrenn's Resolve
+1 Bonus Round
+1 Jeska's Will
+1 Solve the Equation
+1 Sundering Eruption // Volcanic Fissure
+1 Timetwister
+1 Wheel of Fortune
+1 Wheel of Misfortune
+1 Windfall
+1 Past in Flames
+1 Will of the Jeskai
+1 Storm of Memories
+1 Echo of Eons
+1 Mind's Desire
+1 Sea Gate Restoration // Sea Gate, Reborn
+1 Pact of Negation
+1 An Offer You Can't Refuse
+1 Chain of Vapor
+1 Flashback
+1 Flusterstorm
+1 Gut Shot
+1 Lava Dart
+1 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Abandon Attachments
+1 Brain Freeze
+1 Demand Answers
+1 Desperate Ritual
+1 Opera Love Song
+1 Prologue to Phyresis
+1 Pyretic Ritual
+1 Return the Favor
+1 Sazacap's Brew
+1 Snap
+1 Tibalt's Trickery
+1 Deflecting Swat
+1 Fierce Guardianship
+1 Frantic Search
+1 Intuition
+1 Reiterate
+1 Seething Song
+1 Sink into Stupor
+1 Valakut Awakening // Valakut Stoneforge
+1 Radstorm
+1 Invoke Calamity
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Springleaf Drum
+1 Vexing Bauble
+1 Mystic Remora
+1 Underworld Breach
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Great Furnace
+1 Mountain
+1 Scalding Tarn
+1 Seat of the Synod
+1 Shivan Reef
+1 Snow-Covered Mountain
+1 Steam Vents
+1 Training Center
+1 Volcanic Island
+1 Wooded Foothills
+
+
+============================================================
+Yuriko, the Tiger's Shadow
+============================================================
+
+Commander
+1 Yuriko, the Tiger's Shadow
+
+Deck
+1 Kaito, Bane of Nightmares
+1 Memnite
+1 Ornithopter
+1 Phyrexian Walker
+1 Changeling Outcast
+1 Fourth Bridge Prowler
+1 Gran-Gran
+1 Illvoi Galeblade
+1 Mockingbird
+1 Mothdust Changeling
+1 Spectral Sailor
+1 Thousand-Faced Shadow
+1 Universal Automaton
+1 Wingcrafter
+1 Moon-Circuit Hacker
+1 Orcish Bowmasters
+1 Silver-Fur Master
+1 Skullsnatcher
+1 Splinter, Hamato Yoshi
+1 Thassa's Oracle
+1 Boggart Trawler // Boggart Bog
+1 Hydroelectric Specimen // Hydroelectric Laboratory
+1 Irma, Part-Time Mutant
+1 Mistblade Shinobi
+1 Nashi, Moon Sage's Scion
+1 Prosperous Thief
+1 Ingenious Infiltrator
+1 Sakashima's Student
+1 Subtlety
+1 Wonder
+1 Street Wraith
+1 Gitaxian Probe
+1 Imperial Seal
+1 Personal Tutor
+1 Demonic Tutor
+1 Agadeem's Awakening // Agadeem, the Undercrypt
+1 Doomsday
+1 Sea Gate Restoration // Sea Gate, Reborn
+1 Temporal Trespass
+1 Enter the Infinite
+1 An Offer You Can't Refuse
+1 Brainstorm
+1 Dark Ritual
+1 Demonic Consultation
+1 Entomb
+1 Flusterstorm
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+1 Lim-Dul's Vault
+1 Tainted Pact
+1 Dismember
+1 Fierce Guardianship
+1 Flare of Denial
+1 Force of Despair
+1 Force of Negation
+1 Sink into Stupor
+1 Deadly Rollick
+1 Fell the Profane // Fell Mire
+1 Flare of Malice
+1 Mindbreak Trap
+1 Snuff Out
+1 Contagion
+1 Force of Will
+1 Gush
+1 Misdirection
+1 Submerge
+1 Commandeer
+1 Chrome Mox
+1 Lotus Petal
+1 Mox Amber
+1 Mox Diamond
+1 Grafdigger's Cage
+1 Sol Ring
+1 Cursed Totem
+1 Null Rod
+1 Mystic Remora
+1 Rhystic Study
+1 Bloodstained Mire
+1 Command Tower
+1 Flooded Strand
+1 Gemstone Caverns
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Morphic Pool
+1 Multiversal Passage
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Swamp
+1 Thran Portal
+1 Underground River
+1 Underground Sea
+1 Verdant Catacombs
+1 Watery Grave
+
+
+============================================================
+Etali, Primal Conqueror
+============================================================
+
+Commander
+1 Etali, Primal Conqueror // Etali, Primal Sickness
+
+Deck
+1 Chandra, Flameshaper
+1 Birds of Paradise
+1 Delighted Halfling
+1 Orcish Lumberjack
+1 Ragavan, Nimble Pilferer
+1 Tinder Wall
+1 Wild Cantor
+1 Hexing Squelcher
+1 Reckless Barbarian
+1 Generator Servant
+1 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+1 Dualcaster Mage
+1 Elvish Spirit Guide
+1 Eternal Witness
+1 Hunting Velociraptor
+1 Imperial Recruiter
+1 Simian Spirit Guide
+1 Squee, the Immortal
+1 Jaxis, the Troublemaker
+1 Treasonous Ogre
+1 Fury
+1 Pinnacle Monk // Mystic Peak
+1 Rionya, Fire Dancer
+1 Wandering Archaic // Explore the Vastlands
+1 Disciple of Freyalise // Garden of Freyalise
+1 Hellkite Courser
+1 Gamble
+1 Infernal Plunge
+1 Metamorphosis
+1 Rite of Flame
+1 Molten Duplication
+1 Twinflame
+1 Eldritch Evolution
+1 Electroduplicate
+1 Glimpse the Impossible
+1 Heat Shimmer
+1 Jeska's Will
+1 Wheel of Fortune
+1 Geosurge
+1 Turntimber Symbiosis // Turntimber, Serpentine Wood
+1 Autumn's Veil
+1 Crop Rotation
+1 Emerald Charm
+1 Lightning Bolt
+1 Nature's Claim
+1 Noxious Revival
+1 Pyroblast
+1 Red Elemental Blast
+1 Redirect Lightning
+1 Veil of Summer
+1 Worldly Tutor
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Deflecting Swat
+1 Flare of Duplication
+1 Seething Song
+1 Eldrazi Confluence
+1 Force of Vigor
+1 Pyrokinesis
+1 Chrome Mox
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Diamond
+1 Mox Opal
+1 Mana Vault
+1 Sol Ring
+1 Arcane Signet
+1 Grim Monolith
+1 Talisman of Impulse
+1 Cursed Mirror
+1 Cream of the Crop
+1 Underworld Breach
+1 Food Chain
+1 Ancient Tomb
+1 Arid Mesa
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Cavern of Souls
+1 City of Brass
+1 City of Traitors
+1 Command Tower
+1 Commercial District
+1 Crystal Vein
+1 Emergence Zone
+1 Forest
+1 Gaea's Cradle
+1 Gemstone Caverns
+1 Grove of the Burnwillows
+1 Karplusan Forest
+1 Mountain
+1 Scalding Tarn
+1 Shifting Woodland
+1 Spire Garden
+1 Stomping Ground
+1 Taiga
+1 Talon Gates of Madara
+1 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills

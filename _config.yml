@@ -1,0 +1,16 @@
+title: Birthday cEDH Gauntlet
+description: Ocho mazos competitivos para un torneo rotativo de cEDH
+lang: es-AR
+theme: jekyll-theme-cayman
+show_downloads: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - PUBLICAR_EN_GITHUB_PAGES.md
+  - "*.zip"

@@ -1,0 +1,32 @@
+{
+  "root_files": [
+    "404.md",
+    "PUBLICAR_EN_GITHUB_PAGES.md",
+    "README.md",
+    "_config.yml",
+    "index.md"
+  ],
+  "deck_files": [
+    "00_All_8_Moxfield_Imports.txt",
+    "00_README_ES.md",
+    "01_RogSi_Guia_de_Piloto.md",
+    "01_RogSi_Moxfield.txt",
+    "02_Tymna_Kraum_Guia_de_Piloto.md",
+    "02_Tymna_Kraum_Moxfield.txt",
+    "03_Kinnan_Guia_de_Piloto.md",
+    "03_Kinnan_Moxfield.txt",
+    "04_Magda_Guia_de_Piloto.md",
+    "04_Magda_Moxfield.txt",
+    "05_Najeela_Guia_de_Piloto.md",
+    "05_Najeela_Moxfield.txt",
+    "06_Ral_Guia_de_Piloto.md",
+    "06_Ral_Moxfield.txt",
+    "07_Yuriko_Guia_de_Piloto.md",
+    "07_Yuriko_Moxfield.txt",
+    "08_Etali_Guia_de_Piloto.md",
+    "08_Etali_Moxfield.txt",
+    "index.md"
+  ],
+  "guides": 8,
+  "imports": 8
+}
