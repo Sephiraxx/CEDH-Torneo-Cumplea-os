@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/blue-farm/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/rogsi/' | relative_url }}">← RogSi</a>
   <a href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Kinnan →</a>
 </nav>
@@ -19,6 +20,10 @@ permalink: /mazos-y-guias/blue-farm/
 **Perfil:** Resiliente  
 **Final principal:** Thassa's Oracle + Demonic Consultation o Tainted Pact  
 **Plan secundario:** Underworld Breach + Lion's Eye Diamond + Brain Freeze
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Blue Farm — Tymna / Kraum** en Moxfield ↗](https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w)
 
 ## Plan de juego
 
@@ -157,7 +162,8 @@ Es el mazo más resiliente del gauntlet. Desarrolla ventaja de cartas, intercamb
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/rogsi/' | relative_url }}">← RogSi</a>
   <a href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Kinnan →</a>
 </nav>

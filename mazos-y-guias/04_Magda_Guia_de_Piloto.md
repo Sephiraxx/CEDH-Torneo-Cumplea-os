@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/magda/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">← Kinnan</a>
   <a href="{{ '/mazos-y-guias/kefka/' | relative_url }}">Kefka →</a>
 </nav>
@@ -19,6 +20,10 @@ permalink: /mazos-y-guias/magda/
 **Perfil:** Proactivo  
 **Final principal:** Dualcaster Mage + Heat Shimmer o Molten Duplication  
 **Plan secundario:** Clock of Omens + un Enano artefacto
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Magda, Brazen Outlaw** en Moxfield ↗](https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ)
 
 ## Plan de juego
 
@@ -143,7 +148,8 @@ Convierte Enanos girados en Tesoros y transforma grupos de cinco Tesoros en arte
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">← Kinnan</a>
   <a href="{{ '/mazos-y-guias/kefka/' | relative_url }}">Kefka →</a>
 </nav>

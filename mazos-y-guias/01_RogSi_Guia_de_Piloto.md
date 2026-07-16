@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/rogsi/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">Blue Farm →</a>
 </nav>
 
@@ -18,6 +19,10 @@ permalink: /mazos-y-guias/rogsi/
 **Perfil:** Turbo  
 **Final principal:** Underworld Breach + Lion's Eye Diamond + Brain Freeze  
 **Plan secundario:** Thassa's Oracle + Demonic Consultation o Tainted Pact
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **RogSi — Rograkh / Silas Renn** en Moxfield ↗](https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ)
 
 ## Plan de juego
 
@@ -156,6 +161,7 @@ Es la referencia de velocidad del conjunto. Convierte a Rograkh en maná, metalc
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">Blue Farm →</a>
 </nav>

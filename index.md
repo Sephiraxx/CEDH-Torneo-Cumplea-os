@@ -10,7 +10,7 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
 
 <div class="deck-actions">
   <a class="deck-button" href="{{ '/mazos-y-guias/' | relative_url }}">Ver mazos y guías</a>
-  <a class="deck-button secondary" href="{{ '/mazos-y-guias/00_All_8_Moxfield_Imports.txt' | relative_url }}">Descargar las ocho listas</a>
+  <a class="deck-button secondary" href="{{ '/mazos-y-guias/00_All_8_Moxfield_Imports.txt' | relative_url }}">Descargar respaldo de las ocho listas</a>
 </div>
 
 ## Los ocho mazos
@@ -21,8 +21,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Turbo-combo Grixis · Dificultad Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Underworld Breach + Lion's Eye Diamond + Brain Freeze</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/rogsi/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/rogsi/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -30,8 +31,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Midrange-combo de cuatro colores · Dificultad Media–Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Thassa's Oracle + Demonic Consultation o Tainted Pact</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -39,8 +41,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Combo de maná Simic · Dificultad Media</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Kinnan + Basalt Monolith</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -48,8 +51,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Toolbox-combo mono rojo · Dificultad Media–Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Dualcaster Mage + Heat Shimmer o Molten Duplication</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/magda/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/magda/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -57,8 +61,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Midrange-combo Grixis · Dificultad Media–Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Thassa's Oracle + Demonic Consultation o Tainted Pact</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/kefka/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/kefka/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -66,8 +71,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Turbo storm Izzet · Dificultad Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Underworld Breach + Lion's Eye Diamond + Brain Freeze</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/ral/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/ral/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -75,8 +81,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Tempo-combo Dimir · Dificultad Media</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Thassa's Oracle + Demonic Consultation o Tainted Pact</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 <article class="deck-card">
@@ -84,8 +91,9 @@ Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, pr
   <p class="deck-meta">Turbo creature-combo Gruul · Dificultad Media</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Dualcaster Mage + hechizo de copia</p>
   <div class="deck-actions">
-    <a class="deck-button" href="{{ '/mazos-y-guias/etali/' | relative_url }}">Abrir guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">Lista Moxfield</a>
+    <a class="deck-button" href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/etali/' | relative_url }}">Guía</a>
+    <a class="deck-button secondary" href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">.txt</a>
   </div>
 </article>
 </div>

@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/kefka/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/magda/' | relative_url }}">← Magda</a>
   <a href="{{ '/mazos-y-guias/ral/' | relative_url }}">Ral →</a>
 </nav>
@@ -19,6 +20,10 @@ permalink: /mazos-y-guias/kefka/
 **Perfil:** Interactivo  
 **Final principal:** Thassa's Oracle + Demonic Consultation o Tainted Pact  
 **Plan secundario:** Underworld Breach + Lion's Eye Diamond + Brain Freeze
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Kefka, Court Mage // Kefka, Ruler of Ruin** en Moxfield ↗](https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g)
 
 ## Plan de juego
 
@@ -157,7 +162,8 @@ Usa a Kefka como motor de descarte y robo mientras desarrolla un shell Grixis co
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/magda/' | relative_url }}">← Magda</a>
   <a href="{{ '/mazos-y-guias/ral/' | relative_url }}">Ral →</a>
 </nav>

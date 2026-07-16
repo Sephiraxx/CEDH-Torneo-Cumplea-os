@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/etali/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">← Yuriko</a>
 </nav>
 
@@ -18,6 +19,10 @@ permalink: /mazos-y-guias/etali/
 **Perfil:** Explosivo  
 **Final principal:** Dualcaster Mage + hechizo de copia  
 **Plan secundario:** Food Chain + Squee, the Immortal
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Etali, Primal Conqueror // Etali, Primal Sickness** en Moxfield ↗](https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA)
 
 ## Plan de juego
 
@@ -156,6 +161,7 @@ Genera grandes explosiones de maná, resuelve a Etali o un combo compacto de cop
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">← Yuriko</a>
 </nav>

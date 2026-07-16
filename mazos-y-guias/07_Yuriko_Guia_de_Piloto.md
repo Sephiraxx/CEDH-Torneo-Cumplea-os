@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/yuriko/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/ral/' | relative_url }}">← Ral</a>
   <a href="{{ '/mazos-y-guias/etali/' | relative_url }}">Etali →</a>
 </nav>
@@ -19,6 +20,10 @@ permalink: /mazos-y-guias/yuriko/
 **Perfil:** Interactivo  
 **Final principal:** Thassa's Oracle + Demonic Consultation o Tainted Pact  
 **Plan secundario:** Doomsday
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Yuriko, the Tiger's Shadow** en Moxfield ↗](https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA)
 
 ## Plan de juego
 
@@ -157,7 +162,8 @@ Convierte criaturas evasivas de turno uno en disparos de Yuriko, roba cartas y a
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/ral/' | relative_url }}">← Ral</a>
   <a href="{{ '/mazos-y-guias/etali/' | relative_url }}">Etali →</a>
 </nav>

@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/kinnan/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">← Blue Farm</a>
   <a href="{{ '/mazos-y-guias/magda/' | relative_url }}">Magda →</a>
 </nav>
@@ -19,6 +20,10 @@ permalink: /mazos-y-guias/kinnan/
 **Perfil:** Proactivo  
 **Final principal:** Kinnan + Basalt Monolith  
 **Plan secundario:** Hullbreaker Horror + artefactos recasteables
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Kinnan, Bonder Prodigy** en Moxfield ↗](https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw)
 
 ## Plan de juego
 
@@ -157,7 +162,8 @@ Aprovecha dorks y rocas de maná, baja a Kinnan temprano y convierte una enorme 
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">← Blue Farm</a>
   <a href="{{ '/mazos-y-guias/magda/' | relative_url }}">Magda →</a>
 </nav>

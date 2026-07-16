@@ -9,7 +9,8 @@ permalink: /mazos-y-guias/ral/
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/kefka/' | relative_url }}">← Kefka</a>
   <a href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">Yuriko →</a>
 </nav>
@@ -19,6 +20,10 @@ permalink: /mazos-y-guias/ral/
 **Perfil:** Turbo  
 **Final principal:** Underworld Breach + Lion's Eye Diamond + Brain Freeze  
 **Plan secundario:** Storm manual y Reiterate
+
+### Lista en Moxfield
+
+[Abrir la lista actual de **Ral, Monsoon Mage // Ral, Leyline Prodigy** en Moxfield ↗](https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ)
 
 ## Plan de juego
 
@@ -157,7 +162,8 @@ Usa la reducción de Ral, rituales, ruedas y recursión para encadenar un turno 
 
 <nav class="deck-nav">
   <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice de mazos</a>
-  <a href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">Descargar lista Moxfield</a>
+  <a href="https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ" target="_blank" rel="noopener noreferrer">Abrir en Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">Descargar lista .txt</a>
   <a href="{{ '/mazos-y-guias/kefka/' | relative_url }}">← Kefka</a>
   <a href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">Yuriko →</a>
 </nav>
