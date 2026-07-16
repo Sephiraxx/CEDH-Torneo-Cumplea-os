@@ -4,72 +4,35 @@
 @import "{{ site.theme }}";
 
 :root {
-  --cedh-bg: #0d1117;
-  --cedh-panel: #161b22;
-  --cedh-panel-soft: #1f2630;
-  --cedh-border: #30363d;
-  --cedh-text: #e6edf3;
-  --cedh-muted: #9da7b3;
-  --cedh-accent: #58a6ff;
-  --cedh-accent-2: #a371f7;
+  --bg: #0d1117;
+  --panel: #161b22;
+  --panel-soft: #1f2630;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #9da7b3;
+  --accent: #58a6ff;
+  --accent2: #a371f7;
 }
 
-body {
-  background: var(--cedh-bg);
-  color: var(--cedh-text);
-}
-
+body { background: var(--bg); color: var(--text); }
 .page-header {
   background-color: #151b28;
   background-image: linear-gradient(135deg, #15233b, #492568);
 }
-
-.project-name,
-.project-tagline {
-  color: #fff;
-}
-
-.main-content {
-  max-width: 74rem;
-  color: var(--cedh-text);
-}
-
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4 {
-  color: #fff;
-}
-
-.main-content a {
-  color: var(--cedh-accent);
-}
-
+.project-name, .project-tagline { color: #fff; }
+.main-content { max-width: 76rem; color: var(--text); }
+.main-content h1, .main-content h2, .main-content h3 { color: #fff; }
+.main-content a { color: var(--accent); }
 .main-content blockquote {
   color: #c9d1d9;
-  border-left-color: var(--cedh-accent-2);
-  background: rgba(163, 113, 247, 0.08);
-  padding: 0.75rem 1rem;
+  border-left-color: var(--accent2);
+  background: rgba(163, 113, 247, .08);
+  padding: .75rem 1rem;
 }
-
-.main-content table {
-  display: table;
-  width: 100%;
-}
-
-.main-content table th {
-  background: var(--cedh-panel-soft);
-}
-
-.main-content table th,
-.main-content table td {
-  border-color: var(--cedh-border);
-}
-
-.main-content code {
-  color: #f0c36e;
-  background: var(--cedh-panel);
-}
+.main-content table { display: table; width: 100%; }
+.main-content table th { background: var(--panel-soft); }
+.main-content table th, .main-content table td { border-color: var(--border); }
+.main-content code { color: #f0c36e; background: var(--panel); }
 
 .deck-grid {
   display: grid;
@@ -77,81 +40,41 @@ body {
   gap: 1rem;
   margin: 1.5rem 0 2rem;
 }
-
 .deck-card {
   display: flex;
   flex-direction: column;
   min-height: 230px;
   padding: 1.1rem;
-  border: 1px solid var(--cedh-border);
+  border: 1px solid var(--border);
   border-radius: 12px;
-  background: linear-gradient(180deg, var(--cedh-panel-soft), var(--cedh-panel));
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.18);
+  background: linear-gradient(180deg, var(--panel-soft), var(--panel));
+  box-shadow: 0 8px 25px rgba(0,0,0,.18);
 }
-
-.deck-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.35rem;
-}
-
-.deck-card .deck-meta {
-  color: var(--cedh-muted);
-  font-size: 0.92rem;
-}
-
-.deck-card .deck-finish {
-  flex-grow: 1;
-}
-
-.deck-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-  margin-top: 0.6rem;
-}
-
+.deck-card h3 { margin-top: 0; margin-bottom: .35rem; }
+.deck-meta { color: var(--muted); font-size: .92rem; }
+.deck-finish { flex-grow: 1; }
+.deck-actions { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: .6rem; }
 .deck-button {
   display: inline-block;
-  padding: 0.48rem 0.72rem;
-  border: 1px solid var(--cedh-accent);
+  padding: .48rem .72rem;
+  border: 1px solid var(--accent);
   border-radius: 7px;
   text-decoration: none;
   font-weight: 600;
 }
-
-.deck-button.secondary {
-  border-color: var(--cedh-border);
-  color: var(--cedh-text);
-}
-
+.deck-button.secondary { border-color: var(--border); color: var(--text); }
 .deck-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap: 0.75rem;
+  gap: .75rem;
   margin: 1rem 0 1.5rem;
-  padding: 0.75rem;
-  border: 1px solid var(--cedh-border);
+  padding: .75rem;
+  border: 1px solid var(--border);
   border-radius: 8px;
-  background: var(--cedh-panel);
+  background: var(--panel);
 }
-
-.site-footer {
-  border-top-color: var(--cedh-border);
-}
-
-.site-footer-owner,
-.site-footer-credits {
-  color: var(--cedh-muted);
-}
-
 @media screen and (max-width: 42em) {
-  .main-content table {
-    display: block;
-    overflow-x: auto;
-  }
-
-  .deck-card {
-    min-height: auto;
-  }
+  .main-content table { display: block; overflow-x: auto; }
+  .deck-card { min-height: auto; }
 }

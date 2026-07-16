@@ -1,32 +1,83 @@
 {
-  "root_files": [
-    "404.md",
-    "PUBLICAR_EN_GITHUB_PAGES.md",
-    "README.md",
-    "_config.yml",
-    "index.md"
+  "decks": [
+    {
+      "name": "RogSi — Rograkh / Silas Renn",
+      "cards": 100,
+      "commanders": [
+        "Rograkh, Son of Rohgahh",
+        "Silas Renn, Seeker Adept"
+      ],
+      "guide": "01_RogSi_Guia_de_Piloto.md",
+      "import": "01_RogSi_Moxfield.txt"
+    },
+    {
+      "name": "Blue Farm — Tymna / Kraum",
+      "cards": 100,
+      "commanders": [
+        "Kraum, Ludevic's Opus",
+        "Tymna the Weaver"
+      ],
+      "guide": "02_Blue_Farm_Guia_de_Piloto.md",
+      "import": "02_Blue_Farm_Moxfield.txt"
+    },
+    {
+      "name": "Kinnan, Bonder Prodigy",
+      "cards": 100,
+      "commanders": [
+        "Kinnan, Bonder Prodigy"
+      ],
+      "guide": "03_Kinnan_Guia_de_Piloto.md",
+      "import": "03_Kinnan_Moxfield.txt"
+    },
+    {
+      "name": "Magda, Brazen Outlaw",
+      "cards": 100,
+      "commanders": [
+        "Magda, Brazen Outlaw"
+      ],
+      "guide": "04_Magda_Guia_de_Piloto.md",
+      "import": "04_Magda_Moxfield.txt"
+    },
+    {
+      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "cards": 100,
+      "commanders": [
+        "Kefka, Court Mage // Kefka, Ruler of Ruin"
+      ],
+      "guide": "05_Kefka_Guia_de_Piloto.md",
+      "import": "05_Kefka_Moxfield.txt"
+    },
+    {
+      "name": "Ral, Monsoon Mage // Ral, Leyline Prodigy",
+      "cards": 100,
+      "commanders": [
+        "Ral, Monsoon Mage // Ral, Leyline Prodigy"
+      ],
+      "guide": "06_Ral_Guia_de_Piloto.md",
+      "import": "06_Ral_Moxfield.txt"
+    },
+    {
+      "name": "Yuriko, the Tiger's Shadow",
+      "cards": 100,
+      "commanders": [
+        "Yuriko, the Tiger's Shadow"
+      ],
+      "guide": "07_Yuriko_Guia_de_Piloto.md",
+      "import": "07_Yuriko_Moxfield.txt"
+    },
+    {
+      "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
+      "cards": 100,
+      "commanders": [
+        "Etali, Primal Conqueror // Etali, Primal Sickness"
+      ],
+      "guide": "08_Etali_Guia_de_Piloto.md",
+      "import": "08_Etali_Moxfield.txt"
+    }
   ],
-  "deck_files": [
-    "00_All_8_Moxfield_Imports.txt",
-    "00_README_ES.md",
-    "01_RogSi_Guia_de_Piloto.md",
-    "01_RogSi_Moxfield.txt",
-    "02_Tymna_Kraum_Guia_de_Piloto.md",
-    "02_Tymna_Kraum_Moxfield.txt",
-    "03_Kinnan_Guia_de_Piloto.md",
-    "03_Kinnan_Moxfield.txt",
-    "04_Magda_Guia_de_Piloto.md",
-    "04_Magda_Moxfield.txt",
-    "05_Najeela_Guia_de_Piloto.md",
-    "05_Najeela_Moxfield.txt",
-    "06_Ral_Guia_de_Piloto.md",
-    "06_Ral_Moxfield.txt",
-    "07_Yuriko_Guia_de_Piloto.md",
-    "07_Yuriko_Moxfield.txt",
-    "08_Etali_Guia_de_Piloto.md",
-    "08_Etali_Moxfield.txt",
-    "index.md"
-  ],
-  "guides": 8,
-  "imports": 8
+  "stickers_removed": true,
+  "replacements": {
+    "Ral": "Baral, Chief of Compliance",
+    "Etali": "Generator Servant"
+  }
 }

@@ -13,4 +13,5 @@ plugins:
 
 exclude:
   - PUBLICAR_EN_GITHUB_PAGES.md
+  - CAMBIOS_V2.md
   - "*.zip"
