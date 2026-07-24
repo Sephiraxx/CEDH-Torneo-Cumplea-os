@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tivit, Seller of Secrets"
-description: "Guía de piloto de Tivit"
+description: "Guía extensa de piloto de Tivit"
 permalink: /mazos-y-guias/tivit/
 ---
 
@@ -19,36 +19,251 @@ permalink: /mazos-y-guias/tivit/
 **Final principal:** Tivit + Time Sieve  
 **Plan secundario:** Thassa's Oracle o Displacer Kitten
 
-## Plan de juego
+> Esta guía utiliza la lista limpia de 100 cartas y la información estratégica contenida en el TXT exportado. Cuando el primer describe una versión histórica, se distingue de la lista actual.
 
-Controlar la mesa lo suficiente para resolver a Tivit y convertir sus cinco artefactos en turnos adicionales. El mazo no busca responder todo: protege su ventana, rompe paridad con piezas de stax y cierra en el midgame.
+## Resumen operativo
 
-## Mulligan
+Tivit es un mazo de combo disfrazado de midrange-control. Su misión no es responder cada hechizo de la mesa, sino **llegar al comandante y Time Sieve con una ventana protegida**.
 
-- Maná suficiente para desarrollar motores o acelerar a Tivit.
-- Una pieza de ventaja, tutor o interacción eficiente.
-- Acceso a Time Sieve o una ruta que convierta a Tivit en valor inmediato.
-- Evitar manos de puro control que no progresan hacia el comandante o una condición de victoria.
+El rango de fortaleza señalado por el primer es turno 4–6:
 
-## Líneas principales
+- Antes de eso, desarrolla cartas, stax selectivo y maná.
+- Después de Tivit, cada entrada o conexión produce artefactos, cartas y presión.
+- Time Sieve convierte cinco artefactos en otro turno.
 
-1. Time Sieve: con cuatro jugadores, Tivit produce cinco artefactos al entrar o conectar; sacrificarlos a Time Sieve crea otro turno y permite repetir.
-2. Oracle: Thassa's Oracle más Demonic Consultation o Tainted Pact.
-3. Kitten: Displacer Kitten, Teferi y un artefacto de coste cero pueden resetear al planeswalker y robar el mazo.
+## El plan principal
 
-## Prioridades
+Con cuatro jugadores:
 
-- Whir of Invention, Transmute Artifact y Enlightened Tutor encuentran Time Sieve.
-- Grand Abolisher, Myrel, Voice of Victory, Teferi y los efectos de silencio protegen el intento.
-- Si ya murió un oponente, preparar un artefacto adicional porque Tivit sólo generará cuatro.
+1. Tivit entra o conecta.
+2. Se vota clue/treasure.
+3. Tivit vota dos veces.
+4. Se crean cinco artefactos.
+5. Se sacrifican cinco a Time Sieve.
+6. Se toma otro turno.
+7. Tivit vuelve a conectar y repite.
 
-## Error frecuente
+No hace falta que los votos sean favorables: todas las opciones producen artefactos. Los votos afectan la proporción entre maná y cartas.
 
-> Time Sieve es el cuello de botella. La paciencia y la protección importan más que jugarlo en cuanto aparezca.
+## Cuándo el combo deja de ser automático
 
-## Lista limpia para impresión
+Si un oponente ya perdió:
 
-Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 17 cartas del sideboard/considering board del export.
+- Sólo quedan tres votantes.
+- Tivit crea cuatro artefactos.
+- Time Sieve exige cinco.
+
+Necesitás un artefacto adicional por ciclo:
+
+- Roca.
+- Treasure/Clue previo.
+- Urza.
+- Lurrus era una solución en versiones anteriores, pero no está en la lista actual.
+- Otro motor de fichas de la lista actual.
+
+No sacrifiques todos los artefactos antes de comprobar que el siguiente Tivit producirá cinco.
+
+## Plan de juego por etapas
+
+### Primeros turnos
+
+Tres aperturas válidas:
+
+- Motor de robo temprano.
+- Stax que perjudica más al pod.
+- Fast mana hacia Tivit turno 1–3.
+
+A diferencia de turbo, una mano sin fast mana puede conservarse si contiene tierras, motor e interacción. Bajar de cinco cartas es especialmente peligroso para un mazo de control-combo.
+
+### Juego medio
+
+La lista se hace mejor después de turno cuatro:
+
+- Tivit es 6/6 flying ward 3.
+- Cada conexión produce recursos.
+- Displacer Kitten reutiliza entradas.
+- Whir/Transmute/Enlightened Tutor encuentran Time Sieve.
+- Los efectos de Silence preparan la ventana.
+
+### Cierre
+
+No expongas Time Sieve demasiado pronto. Puede tutorizarse a velocidad instantánea con Whir of Invention. Es preferible:
+
+1. Resolver protección.
+2. Resolver/atacar con Tivit.
+3. Buscar Sieve cuando se vaya a usar.
+4. Activar inmediatamente.
+
+## Mulligan detallado
+
+### Buenas manos
+
+- Dos o tres tierras/rocas y una curva.
+- Motor de turno uno o dos.
+- Ritual/fast mana hacia Tivit.
+- Tutor a Time Sieve.
+- Interacción que cubra turbo.
+- Stax relevante para el pod.
+
+### Malas manos
+
+- Todo control, sin motor ni comandante cercano.
+- Time Sieve en mano sin Tivit/maná.
+- Muchas tierras y respuestas de tres manás.
+- Una única roca vulnerable y sin colores.
+- Mano que sólo funciona si Tivit resuelve sin protección.
+
+## Protección del combo
+
+El primer recomienda preparar:
+
+- Silence.
+- Orim's Chant.
+- Teferi, Time Raveler.
+- Grand Abolisher.
+- Myrel.
+- Voice of Victory.
+- Ranger-Captain of Eos.
+
+Importante: los efectos de Silence detienen hechizos, pero no necesariamente habilidades de tierras o Channel.
+
+### Boseiju sobre Time Sieve
+
+Una vez sacrificados los cinco artefactos, un rival puede responder a la activación destruyendo Time Sieve. La habilidad ya está en la pila y normalmente seguirá resolviendo, pero perder Sieve corta los turnos posteriores. Boseiju es difícil de detener mediante counters convencionales y puede usarse bajo Silence.
+
+La lista actual no contiene Spellskite, aunque el primer lo mencione como protección de versiones anteriores. Hay que depender de countermagic, bounce preventivo y timing.
+
+## Oracle
+
+1. Resolver Thassa's Oracle.
+2. Con el disparo en la pila, Consultation o Tainted Pact.
+3. Vaciar biblioteca.
+4. Resolver.
+
+Amenazas:
+
+- Cephalid Coliseum rival.
+- Esper Sentinel u otros robos obligatorios propios.
+- Noxious Revival.
+- Endurance.
+- Efectos que ponen cartas en biblioteca.
+
+Silence no bloquea habilidades de tierras, por lo que debe conocerse la mesa.
+
+## Displacer Kitten + Teferi
+
+Concepto de la línea documentada:
+
+- Teferi en juego.
+- Displacer Kitten.
+- Artefacto de coste cero.
+- Otro permanente no criatura que pueda rebotarse/dibujar.
+
+Secuencia:
+
+1. Activar -3 de Teferi y devolver el artefacto.
+2. Lanzar el artefacto.
+3. Kitten parpadea a Teferi.
+4. Teferi vuelve como objeto nuevo.
+5. Repetir para robar cartas.
+
+La lista actual tiene Moxen y Lotus Petal, pero no siempre la secuencia es mana neutral. Contá el maná, los objetivos legales y si Teferi puede seguir devolviendo la pieza.
+
+Después de robar suficiente:
+
+- Oracle.
+- Tutor hacia Time Sieve.
+- Otra línea protegida.
+
+## Displacer Kitten como valor
+
+Aunque no haya loop:
+
+- Parpadear Tivit crea otros cinco artefactos.
+- Spellseeker se menciona en el primer, pero no está en la lista actual.
+- Urza vuelve a crear Construct y habilitar maná.
+- Imposter Mech/Mockingbird pueden reutilizar objetivos según su estado.
+- Mana-positive rocks pueden reiniciarse.
+
+Cuidado con Containment Priest propia: puede exiliar permanentes que entren sin ser lanzados, cortando el plan de Kitten.
+
+## Ataque
+
+El primer es explícito: **atacar casi siempre**.
+
+Razones:
+
+- Tivit genera artefactos al conectar.
+- Ward 3 lo hace difícil de remover.
+- Flying encuentra huecos.
+- El daño de comandante es un plan real.
+- Los clues convierten el ataque en cartas.
+
+No atacar sólo es correcto si la represalia mata o si Tivit debe quedar para bloquear una amenaza decisiva.
+
+## Stax
+
+La lista actual incluye:
+
+- Containment Priest.
+- Cursed Totem.
+- Grafdigger's Cage.
+- Disruptor Flute.
+- Vexing Bauble.
+- Opposition Agent.
+- Teferi.
+- Varias criaturas de Silence/protección.
+
+No es un mazo full stax. Cada pieza debe:
+
+- Comprar tiempo.
+- No apagar Time Sieve.
+- No impedir Oracle/Kitten sin un plan.
+- Ser relevante contra el pod actual.
+
+Rule of Law suele ser favorable porque Time Sieve gana mediante una activación y Tivit ataca; aun así, la lista actual no la incluye.
+
+## Tutores
+
+- Enlightened Tutor: Time Sieve, motor o stax.
+- Whir of Invention: Sieve al final del turno o durante la ventana.
+- Transmute Artifact: convertir una roca en Sieve.
+- Tezzeret, Cruel Captain: buscar/crear ventaja según la carta exacta.
+- Demonic/Vampiric/Imperial Seal: la pieza que complete el plan.
+- Weathered Wayfarer: Cavern, Urza's Saga, Otawara o colores.
+
+Cavern of Souls suele nombrar **Rogue** para Tivit y varias criaturas de utilidad.
+
+## Debilidades
+
+- Artifact hate.
+- Null Rod/Collector Ouphe.
+- Pithing Needle/Flute sobre Time Sieve.
+- Mesas go-wide que presionan antes de Tivit.
+- Exilio de Time Sieve mediante Force of Negation.
+- Pérdida de un jugador antes del loop.
+- Cursed Totem propia que puede afectar ciertas criaturas de valor, aunque no a Tivit/Time Sieve.
+
+## Errores frecuentes
+
+1. Ser el policía de la mesa y quedarse sin recursos.
+2. Jugar Time Sieve antes de usarlo.
+3. No proteger Tivit al entrar.
+4. No atacar.
+5. Olvidar que con tres jugadores se crean cuatro artefactos.
+6. Confiar en Silence contra Boseiju/Cephalid Coliseum.
+7. Parpadear bajo Containment Priest propia.
+8. Seguir notas del sideboard como si fueran cartas del mazo principal.
+
+## Referencia rápida antes de jugar
+
+- **Mulligan:** exigí maná, una acción concreta y una secuencia para los primeros turnos.
+- **Antes de intentar ganar:** contá maná, protección, puntos de interacción y plan posterior si te detienen.
+- **Durante la pila:** anunciá objetivos, disparos y prioridades con claridad.
+- **Loops:** demostrálos una vez y declarales una cantidad concreta.
+- **Consulta:** la guía puede permanecer junto al mazo durante la partida.
+
+## Lista limpia de 100 cartas
 
 ```text
 1 Tivit, Seller of Secrets (NCC) 109 *F*

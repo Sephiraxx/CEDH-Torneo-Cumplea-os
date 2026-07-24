@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "RogSi — Rograkh / Silas Renn"
-description: "Guía de piloto de RogSi"
+description: "Guía extensa de piloto de RogSi"
 permalink: /mazos-y-guias/rogsi/
 ---
 
@@ -15,41 +15,240 @@ permalink: /mazos-y-guias/rogsi/
   <a href="{{ '/mazos-y-guias/sisay/' | relative_url }}">Sisay →</a>
 </nav>
 
-**Rol:** Turbo-combo Grixis  
+**Rol:** Storm-combo Grixis  
 **Dificultad:** Muy alta  
 **Final principal:** Underworld Breach + Lion's Eye Diamond + Brain Freeze  
-**Plan secundario:** Thassa's Oracle + Demonic Consultation o Tainted Pact
+**Plan secundario:** Thassa's Oracle, Ad Nauseam y motores de robo
 
-## Plan de juego
+> Esta guía utiliza la lista limpia de 100 cartas y la información estratégica contenida en el TXT exportado. Cuando el primer describe una versión histórica, se distingue de la lista actual.
 
-Convertir a Rograkh en maná, metalcraft o valor de sacrificio y forzar una condición compacta antes de que la mesa se estabilice. Ad Nauseam, Necropotence y Necrodominance permiten recargar.
+## Resumen operativo
 
-## Mulligan
+El primer de RogSi insiste en que el mazo es **Storm**, no simplemente “Turbo Ad Nauseam”. La lista utiliza a Rograkh para generar ventaja de maná virtual, aumenta la densidad de payoffs y cambia de ruta según la información disponible.
 
-- Dos fuentes utilizables de maná, contando correctamente recursos de un solo uso.
-- Un payoff o un tutor hacia Ad Nauseam, Necropotence, Necrodominance o Breach.
-- Protección o una segunda ventana de victoria.
-- Una función concreta para Rograkh: Mox Amber, Culling the Weak, Infernal Plunge, Springleaf Drum o Paradise Mantle.
+El piloto debe aprender a:
 
-## Líneas principales
+- Mulliganear agresivamente sin quedarse con una lotería.
+- Convertir a Rograkh en maná.
+- Saber cuándo jugar una rueda.
+- Elegir entre Breach, Oracle, Ad Nauseam, Necropotence/Necrodominance y value.
+- Reconocer la ventana antes de que se cierre.
 
-1. Breach: repetir Lion's Eye Diamond y Brain Freeze bajo Underworld Breach.
-2. Oracle: Thassa's Oracle más Demonic Consultation o Tainted Pact.
-3. Los turnos extra y Borne Upon a Wind permiten elegir ventanas que evitan pelear de frente contra toda la mesa.
+## Qué aporta Rograkh
 
-## Prioridades
+Rograkh cuesta cero y habilita:
 
-- Gamble suele buscar Breach o LED.
-- Mystical Tutor encuentra Ad Nauseam, Brain Freeze, Consultation o protección.
-- Los tutores negros deben terminar la línea más corta disponible.
+- Fierce Guardianship, Deflecting Swat, Deadly Rollick y Flare of Duplication.
+- Mox Amber.
+- Paradise Mantle y Springleaf Drum.
+- Culling the Weak e Infernal Plunge.
+- Diabolic Intent.
+- Phyrexian Tower.
+- Jeska's Will con comandante en juego.
 
-## Error frecuente
+La ventaja no es “robar cartas desde la zona de comando”, sino comenzar con una pieza gratuita que convierte cartas de la mano en maná y protección.
 
-> No disparar sólo porque el maná existe. Evaluar Vexing Bauble, cartas azules rivales y la capacidad de reconstruirse.
+Silas es secundario, pero puede recuperar artefactos cuando la partida se alarga y aporta colores al mazo.
 
-## Lista limpia para impresión
+## Filosofía Storm
 
-Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 0 cartas del sideboard/considering board del export.
+La lista no está obligada a encontrar Ad Nauseam. Juega:
+
+- Breach.
+- Oracle.
+- Necropotence y Necrodominance.
+- Ruedas.
+- Yawgmoth's Will.
+- Mnemonic Betrayal.
+- Birgi/Harnfel.
+- Motores azules.
+
+La consigna del primer es ser **fluido**. Cada robo cambia la ruta óptima.
+
+## Plan de juego por etapas
+
+### Mulligan
+
+El estándar es alto: la mano debería amenazar una victoria en los primeros tres turnos o desarrollar un motor/interacción que compense no hacerlo.
+
+Una buena mano tiene:
+
+- Fast mana.
+- Payoff o tutor.
+- Protección o forma de jugar alrededor.
+- Colores suficientes después de gastar recursos volátiles.
+
+### Inicio
+
+Rograkh se juega primero cuando habilita maná, metalcraft o protección. No hace falta exponerlo si no cumple función y la mesa puede removerlo para cortar Culling/Drum/Mox Amber.
+
+### Juego medio
+
+Si el primer intento no aparece:
+
+- Mystic Remora y Rhystic Study permiten recargar.
+- Wheels transforman una mano vacía en siete cartas.
+- Los descartes alimentan Breach, Yawgmoth's Will y Mnemonic Betrayal.
+- Talismans y tierras de colores convierten los turnos extra rojos en acceso a azul/negro.
+
+## Mulligan: potencia versus lotería
+
+El primer ofrece múltiples ejemplos. La lección común:
+
+### Mantener
+
+- Intento temprano con protección.
+- Motor fuerte de turno uno o dos más interacción.
+- Mano con varias rutas.
+- Payoff que todavía funciona si el primer hechizo es detenido.
+
+### Devolver
+
+- “Puede ser turno dos” pero necesita topdeck exacto.
+- Mucha interacción y ninguna acción.
+- Rueda sin ventaja previa ni velocidad.
+- Mox Opal sin metalcraft.
+- Colores incorrectos después de gastar Spirit Guide/LED.
+- Defensa Grid temprana pero sin payoff ni forma de recargar.
+
+No es obligación del asiento cuatro conservar una mano de policía de mesa. El mazo debe intentar ganar, no proteger gratis a los otros tres jugadores.
+
+## Oracle
+
+1. Lanzá Thassa's Oracle.
+2. Confirmá que la criatura resuelve.
+3. Con el disparo en pila, lanzá Consultation o Pact.
+4. Vacía biblioteca y resolvé.
+
+Jugar Oracle primero evita exiliar la biblioteca frente a Pyroblast sobre la criatura.
+
+## Breach
+
+El motor es:
+
+- Underworld Breach.
+- Brain Freeze.
+- LED o Lotus Petal.
+
+Secuencia:
+
+1. Breach.
+2. Brain Freeze sobre vos mismo.
+3. LED/Petal para producir maná.
+4. Escapar las piezas y aumentar storm.
+5. Encontrar protección.
+6. Oracle o moler rivales.
+
+Un tutor único puede ser suficiente: Demonic Tutor encuentra Breach, luego se escapa para buscar Brain Freeze y otra vez para LED si el cementerio/maná lo permiten.
+
+Si Oracle está exiliada:
+
+- Brain Freeze a los rivales.
+- Mnemonic Betrayal para usar sus cementerios.
+- Praetor's Grasp para tomar una Oracle ajena.
+
+## Ad Nauseam
+
+La lista juega cartas de valor alto, por lo que no se construye exclusivamente alrededor de minimizar cada punto de daño. Compensa mediante:
+
+- Mayor densidad de mana rocks.
+- Turnos adicionales rojos.
+- Necropotence/Necrodominance como motores alternativos.
+- Ruedas y Yawgmoth's Will.
+
+Ad Nauseam es instantáneo. No lo lances automáticamente en tu fase principal frente a maná abierto. Revisá:
+
+- Vida.
+- Fuentes iniciales de maná que quedan en biblioteca.
+- Colores posteriores.
+- Interacción propia.
+- Si un turno adicional puede enderezar los Talismans y solucionar colores.
+
+## Turnos adicionales
+
+Final Fortune, Last Chance y Warrior's Oath:
+
+- Enderezan fuentes permanentes.
+- Convierten maná rojo en un nuevo turno con azul/negro disponible.
+- Ayudan a convertir Necropotence/Ad Nauseam.
+- Pueden ser parte del cierre, pero exigen ganar.
+
+No se usan como simple Explore. Antes de lanzarlos, definí la secuencia del siguiente turno.
+
+## Ruedas
+
+El primer llama al mazo “Turbo Wheels” de forma provocadora porque las ruedas son parte activa del plan.
+
+Usos:
+
+- Mulligan agresivo + vaciar fast mana + robar siete.
+- Llenar cementerio para Breach/Yawgmoth.
+- Castigar manos esculpidas.
+- Recuperarse después de gastar rituales.
+- Convertir Narset/efectos similares rivales en riesgo, si aparecen.
+
+No todas son iguales:
+
+- Timetwister recicla cementerios y puede perjudicar Breach.
+- Wheel of Fortune/Wheel of Misfortune alimentan cementerio.
+- Windfall depende del tamaño de manos.
+
+## Motores
+
+### Necropotence y Necrodominance
+
+Permiten intercambiar vida por una mano capaz de ganar. La presencia de Borne Upon a Wind y Valley Floodcaller abre líneas en end step.
+
+### Birgi/Harnfel
+
+Birgi convierte cada hechizo en maná. Harnfel transforma cartas inútiles en acceso a más biblioteca y puede sostener un turno Storm.
+
+### Yawgmoth's Will
+
+Actúa como un Breach de un solo uso. Contá la restricción de exilio y secuenciá LED/rituales antes de comprometer cartas.
+
+### Mnemonic Betrayal
+
+Cuanto más avanzada la partida, más probable es que los cementerios rivales contengan tutores, rituales y condiciones.
+
+## Tutores
+
+- Gamble: Breach/LED/Brain Freeze; el descarte puede ser beneficioso.
+- Mystical Tutor: Ad Nauseam, Brain Freeze, Consultation o interacción.
+- Beseech the Mirror: payoff o pieza de combo con bargain.
+- Demonic Counsel y tutores negros: completar la línea más corta.
+- Praetor's Grasp: wincon ajena, protección o respuesta.
+- Wishclaw: activar en el turno de victoria o bajo una protección que impida al rival usarlo.
+
+## Protección
+
+- Defense Grid para forzar interacción cara.
+- Mistrise Village y Cavern/tierras especiales según el hechizo.
+- Borne Upon a Wind para cambiar de ventana.
+- Counters gratuitos.
+- Pyroblast/REB.
+- Daze como sorpresa cuando la mesa se gira.
+- Flare of Duplication para copiar counters o payoffs.
+
+## Errores frecuentes
+
+1. Creer que cada mano debe lanzar Ad Nauseam.
+2. Mantener un turno dos sin protección ni plan posterior.
+3. No contar colores después de rituales.
+4. No usar ruedas por miedo a dar cartas.
+5. Jugar Rograkh sin función y perderlo antes de Culling.
+6. Intentar ser el controlador del pod desde asiento cuatro.
+7. No reevaluar la línea después de cada robo o respuesta rival.
+
+## Referencia rápida antes de jugar
+
+- **Mulligan:** exigí maná, una acción concreta y una secuencia para los primeros turnos.
+- **Antes de intentar ganar:** contá maná, protección, puntos de interacción y plan posterior si te detienen.
+- **Durante la pila:** anunciá objetivos, disparos y prioridades con claridad.
+- **Loops:** demostrálos una vez y declarales una cantidad concreta.
+- **Consulta:** la guía puede permanecer junto al mazo durante la partida.
+
+## Lista limpia de 100 cartas
 
 ```text
 1 Rograkh, Son of Rohgahh (CMR) 197

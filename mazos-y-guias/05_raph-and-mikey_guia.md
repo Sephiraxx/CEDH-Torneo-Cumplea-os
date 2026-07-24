@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Raph & Mikey, Troublemakers"
-description: "Guía de piloto de Raph & Mikey"
+description: "Guía extensa de piloto de Raph & Mikey"
 permalink: /mazos-y-guias/raph-and-mikey/
 ---
 
@@ -18,39 +18,228 @@ permalink: /mazos-y-guias/raph-and-mikey/
 **Rol:** Turbo-combate Gruul  
 **Dificultad:** Media–Alta  
 **Final principal:** Ataques repetidos con Raphael o Port Razer  
-**Plan secundario:** Aggravated Assault + producción masiva de maná
+**Plan secundario:** Old Gnawbone + Aggravated Assault
 
-## Plan de juego
+> Esta guía utiliza la lista limpia de 100 cartas y la información estratégica contenida en el TXT exportado. Cuando el primer describe una versión histórica, se distingue de la lista actual.
 
-Acelerar al comandante de siete manás, atacar cuanto antes y convertir cada ataque en una criatura puesta directamente en combate. Los mejores impactos generan combates adicionales, Tesoros o daño letal.
+## Nota sobre la fuente
 
-## Mulligan
+El TXT contiene una transcripción extensa de una versión anterior y la lista actual de 100 cartas. La transcripción analiza Blightsteel Colossus, Hellkite Charger y otras cartas que **ya no están en el mazo principal**. Esta guía conserva los principios útiles —ramp, ataques adicionales, criaturas que funcionan al entrar atacando y orden de disparos— pero aplica todo a la lista actual.
 
-- Una secuencia realista para llegar a siete manás rápidamente.
-- Protección para el comandante o para el primer ataque.
-- Un tutor, Scroll Rack o una forma de mejorar el próximo impacto.
-- No conservar payoffs grandes en mano si no existe una ruta para jugar al comandante.
+## Identidad
 
-## Líneas principales
+Raph & Mikey cuesta siete manás, tiene trample y haste, y al atacar revela hasta encontrar una criatura, que entra girada y atacando.
 
-1. Raphael: al conectar por primera vez, endereza atacantes y crea otro combate; el nuevo ataque vuelve a disparar a Raph & Mikey.
-2. Port Razer: puede crear combates adicionales atacando jugadores distintos durante el turno.
-3. Old Gnawbone más Aggravated Assault puede convertir el daño de combate en suficiente maná para repetir combates.
-4. Los múltiples hechizos de combate adicional funcionan también como disparos extra del comandante.
+El mazo no gana por acumular valor lentamente. Su plan es:
 
-## Prioridades
+1. Alcanzar siete manás.
+2. Resolver al comandante.
+3. Llegar al primer ataque.
+4. Convertir cada ataque adicional en otra criatura gratuita.
+5. Encadenar Raphael, Port Razer, Old Gnawbone y los muchos hechizos de combate adicional.
 
-- Worldly Tutor, Sylvan Tutor, Finale e Invasion of Ikoria buscan la criatura adecuada.
-- Gamble encuentra aceleración, un combate adicional o la pieza que falta.
-- Scroll Rack permite devolver criaturas caras de la mano y controlar mejor el próximo impacto.
+La primera prioridad de los rivales será impedir el paso entre “resuelve el comandante” y “declara ataque”.
 
-## Error frecuente
+## Mecánica crítica: entrar atacando no es atacar
 
-> La habilidad del comandante sólo ocurre al atacar. Proteger el primer combate suele ser más importante que desplegar un segundo payoff.
+Una criatura puesta en juego por Raph & Mikey:
 
-## Lista limpia para impresión
+- Está atacando.
+- No fue declarada atacante.
+- No dispara habilidades que digan “cuando esta criatura ataque”.
 
-Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 30 cartas del sideboard/considering board del export.
+Esta regla explica por qué muchas criaturas aparentemente perfectas son trampas. La versión actual prioriza criaturas que:
+
+- Tienen un efecto al hacer daño.
+- Producen maná.
+- Funcionan aunque entren ya atacando.
+- Generan el siguiente combate después de conectar.
+
+## Plan de juego por etapas
+
+### Mulligan y preparación
+
+Una buena mano necesita responder: **¿cómo llego a siete manás y cómo sobrevivo al primer ataque?**
+
+Buscá:
+
+- Dos o tres fuentes permanentes.
+- Ritual grande: Geosurge, Irencrag Feat, Jeska's Will.
+- Roca positiva: Mana Vault, Grim Monolith, Sol Ring, Moxen.
+- Treasonous Ogre o tutor hacia él.
+- Protección: Veil of Summer, Pyroblast, Deflecting Swat, Bolt Bend, Not of This World.
+- Un hechizo de combate adicional para convertir el primer impacto en una cadena.
+
+### Manos trampa
+
+- Siete manás de recursos de un solo uso, sin protección.
+- Varias cartas de combate adicional pero ningún comandante temprano.
+- Criaturas caras en mano que deberían estar en la biblioteca.
+- Una mano que depende de topdeckear exactamente una fuente roja.
+- Ramp que sólo produce verde cuando la lista es predominantemente roja.
+
+### Primer ataque
+
+Antes de declarar combate:
+
+- Identificá al jugador sin bloqueador.
+- Identificá quién puede tener removal instantáneo.
+- Decidí si necesitás lanzar protección antes o responder después.
+- Contá si el impacto posible permite pagar un combate adicional.
+
+No es necesario atacar al mismo jugador con todas las criaturas. Distribuir ataques puede abrir Port Razer, minimizar bloqueadores y eliminar amenazas diferentes.
+
+## Criaturas clave actuales
+
+### Raphael, Tag Team Tough
+
+Cuando conecta por primera vez en el turno:
+
+- Endereza a todos los atacantes.
+- Crea un combate adicional.
+
+Menace aumenta la probabilidad de conectar. Es uno de los mejores impactos porque el siguiente combate vuelve a disparar al comandante.
+
+Si Raphael y otra fuente de combate adicional disparan en el mismo combate, recordá que crear “un combate adicional” varias veces puede no producir la cantidad esperada según el efecto y la secuencia. Anotá cada efecto por separado.
+
+### Port Razer
+
+Al conectar:
+
+- Endereza las criaturas.
+- Crea otro combate.
+- No puede volver a atacar al mismo jugador al que ya atacó ese turno.
+
+Planificá la ruta entre tres oponentes. El primer objetivo suele ser quien no puede bloquear; el siguiente combate debe dirigirse a otro jugador.
+
+### Old Gnawbone
+
+Convierte todo el daño de combate en Tesoros. Es la pieza que transforma una cadena de ataques en:
+
+- Maná para Aggravated Assault.
+- Maná para hechizos de combate adicional.
+- Protección.
+- Recast del comandante si algo sale mal.
+
+### Treasonous Ogre
+
+Es ramp hacia el comandante, no un impacto deseado del disparo. Pagar 21 vidas produce los siete rojos necesarios para Raph & Mikey, pero hay que incluir el maná genérico/color que ya se usó y el daño de la mesa.
+
+Si Ogre entra atacando desde la biblioteca, todavía sirve en la fase principal posterior para pagar otros hechizos, pero no genera inmediatamente otro combate.
+
+## Combo: Old Gnawbone + Aggravated Assault
+
+Con Old Gnawbone conectando por siete o más:
+
+1. El daño crea al menos siete Tesoros.
+2. Pagá cinco a Aggravated Assault en la fase principal posterior.
+3. Enderezá criaturas y obtené otro combate.
+4. Volvé a conectar.
+5. Cada ciclo deja Tesoros netos y crea otro disparo de Raph & Mikey.
+
+El combo exige llegar a la fase principal posterior. Aggravated Assault no se activa durante combate.
+
+## Combates adicionales del mazo
+
+La lista incluye varias categorías:
+
+- Relentless Assault, Seize the Day, Savage Beating.
+- Last Night Together, Great Train Heist, Full Throttle.
+- Overpowering Attack y Grim Reaper's Sprint.
+- Final Fortune, Last Chance y otros turnos adicionales.
+- Aggravated Assault como motor repetible.
+
+No todos funcionan igual:
+
+- Algunos enderezan criaturas.
+- Algunos crean fase principal adicional.
+- Algunos requieren objetivo.
+- Algunos ofrecen haste, indestructible o bonos.
+- Los turnos adicionales reinician el límite “primera vez cada turno” de Raphael.
+
+Leé la carta exacta antes de declarar la línea.
+
+## Orden de disparos
+
+Cuando atacan Raph & Mikey y otra criatura con disparo:
+
+- Poné el disparo del comandante de forma que resuelva antes si necesitás conocer qué criatura entra antes de decidir pagar otro combate.
+- Si Hellkite Charger no está en la lista actual, ignorá las secuencias antiguas de la transcripción que dependen de él.
+- Con Raphael/Port Razer, el daño debe ocurrir; la remoción antes de daño corta la cadena.
+- Old Gnawbone debe estar en juego cuando se hace daño para crear Tesoros.
+
+## Scroll Rack y tutores
+
+La lista quiere las criaturas fuertes **en la biblioteca**, no en la mano.
+
+- Scroll Rack devuelve criaturas al mazo y mejora la próxima revelación.
+- Worldly Tutor y Sylvan Tutor colocan la criatura elegida arriba.
+- Finale e Invasion of Ikoria pueden buscar Treasonous Ogre para ramp o una criatura de combate para cerrar.
+- Gamble suele buscar ritual, protección o combate adicional.
+- Noxious Revival puede colocar una criatura del cementerio arriba antes de atacar.
+
+No uses Worldly Tutor automáticamente para Old Gnawbone. Raphael o Port Razer pueden ser mejores según bloqueadores y maná.
+
+## Ramp
+
+### Rituales grandes
+
+- Geosurge e Irencrag Feat producen exactamente el salto hacia siete manás.
+- La restricción de Irencrag Feat es aceptable si el único hechizo posterior es el comandante.
+- Jeska's Will depende de la mano rival y puede ofrecer cartas además de maná.
+- Desperate Ritual, Pyretic Ritual y Open the Omenpaths completan secuencias.
+
+### Permanentes
+
+- Mana Vault, Grim Monolith, Sol Ring, Arcane Signet y Talisman.
+- Chrome Mox, Mox Diamond y Lion's Eye Diamond.
+- Wild Growth y Vessel of Volatility.
+- City of Traitors, Crystal Vein y Ancient Tomb ofrecen aceleración con costes reales.
+
+La base es mayoritariamente roja con soporte verde. Priorizá fuentes rojas al elegir fetches.
+
+## Protección
+
+- Veil of Summer y Burnout contra azul.
+- Pyroblast, Red Elemental Blast y Guttural Response.
+- Deflecting Swat, Bolt Bend y Redirect Lightning para cambiar objetivos.
+- Not of This World se abarata por el poder del comandante.
+- Tyvar's Stand y Legolas's Quick Reflexes protegen criaturas.
+- Mogg Salvage responde a artefactos problemáticos cuando el rival controla Island.
+
+La protección debe reservarse para:
+
+1. El comandante antes del ataque.
+2. Raphael/Port Razer antes de daño.
+3. Old Gnawbone cuando habilita un loop.
+4. Aggravated Assault si ya existe una fase principal posterior.
+
+## Elección de objetivos
+
+- Eliminá primero al jugador con Ad Nauseam/Necropotence si la cadena no mata a todos.
+- Port Razer exige atacar jugadores distintos.
+- El comandante con trample puede presionar a un bloqueador pequeño; Raphael necesita conectar y tiene menace.
+- No ataques innecesariamente al jugador que puede conservar un bloqueador para cortar el siguiente combate.
+
+## Errores frecuentes
+
+1. Incluir criaturas cuyo disparo requiere ser declaradas atacantes.
+2. Mantener criaturas clave en mano sin Scroll Rack.
+3. Pagar demasiada vida a Treasonous Ogre sin contar ataques rivales.
+4. Lanzar el comandante sin protección y sin rival abierto.
+5. Confundir combate adicional con turno adicional.
+6. Olvidar la restricción de Port Razer.
+7. Seguir líneas antiguas de la transcripción con cartas que ya no están en la lista.
+
+## Referencia rápida antes de jugar
+
+- **Mulligan:** exigí maná, una acción concreta y una secuencia para los primeros turnos.
+- **Antes de intentar ganar:** contá maná, protección, puntos de interacción y plan posterior si te detienen.
+- **Durante la pila:** anunciá objetivos, disparos y prioridades con claridad.
+- **Loops:** demostrálos una vez y declarales una cantidad concreta.
+- **Consulta:** la guía puede permanecer junto al mazo durante la partida.
+
+## Lista limpia de 100 cartas
 
 ```text
 1 Raph & Mikey, Troublemakers (TMT) 250 *F*

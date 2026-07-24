@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "K'rrik, Son of Yawgmoth"
-description: "Guía de piloto de K'rrik"
+description: "Guía extensa de piloto de K'rrik"
 permalink: /mazos-y-guias/krrik/
 ---
 
@@ -17,39 +17,250 @@ permalink: /mazos-y-guias/krrik/
 
 **Rol:** Turbo-combo y reanimación mono negra  
 **Dificultad:** Muy alta  
-**Final principal:** Necrotic Ooze + Asmodeus + Skirge Familiar  
-**Plan secundario:** Cadenas de reanimación con Razaketh o Hoarding Broodlord
+**Final principal:** Cadenas de cementerio y tutores  
+**Plan secundario:** Necrotic Ooze, Razaketh y Hoarding Broodlord
 
-## Plan de juego
+> Esta guía utiliza la lista limpia de 100 cartas y la información estratégica contenida en el TXT exportado. Cuando el primer describe una versión histórica, se distingue de la lista actual.
 
-Tratar la vida como maná, resolver a K'rrik y encadenar rituales y tutores hacia una línea de cementerio. La lista está construida para intentos muy tempranos y requiere calcular vida, maná negro y cuerpos sacrificables con precisión.
+## Alcance de esta guía
 
-## Mulligan
+El TXT de K'rrik contiene la lista completa y una introducción del autor, pero anuncia que el primer actualizado todavía está en preparación. Por eso esta guía es más extensa que la anterior, pero diferencia dos tipos de información:
 
-- Fast mana que permita a K'rrik o un tutor explosivo temprano.
-- Un tutor o acceso al cementerio: Entomb, Buried Alive, Unmarked Grave, Vile Entomber o Final Parting.
-- Una reanimación o una criatura que convierta el tutor en una cadena.
-- Vida suficiente para pagar los símbolos negros de la secuencia completa.
+- **Documentado por el archivo:** filosofía turbo, uso de vida como recurso, alta densidad de rituales/tutores y capacidad de intentar ganar desde turno uno.
+- **Derivado de la arquitectura de la lista:** cómo se conectan las piezas de reanimación, Necrotic Ooze, Razaketh y Hoarding Broodlord.
 
-## Líneas principales
+## Identidad
 
-1. Ooze: colocar Asmodeus the Archfiend y Skirge Familiar en el cementerio y reanimar Necrotic Ooze. Ooze roba siete con la habilidad de Asmodeus y descarta cartas para generar negro mediante Skirge Familiar.
-2. Razaketh: reanimarlo y convertir criaturas o recursos prescindibles en una cadena de tutores hasta ensamblar el cierre.
-3. Hoarding Broodlord y Sidisi convierten una reanimación en tutor; Chainer, Corpse Dance y Xiahou Dun aportan líneas de recursión.
+K'rrik transforma cada símbolo negro en la opción de pagar dos vidas. Eso rompe el sistema normal de maná: Dark Ritual, tutores de cuatro manás, criaturas de reanimación y motores caros pueden lanzarse usando relativamente poco maná genérico.
 
-## Prioridades
+La lista busca:
 
-- Buried Alive suele preparar la pila de Ooze.
-- Entomb y Unmarked Grave buscan la criatura cuya reanimación ya esté disponible.
-- Antes de pagar vida, escribir mentalmente la secuencia completa y conservar el maná genérico necesario.
+- Mantener bajo el coste genérico de las cartas.
+- Jugar casi todos los rituales y tutores eficientes.
+- Presentar intentos de victoria desde turno uno y, con frecuencia, turno dos.
+- Encadenar combos por capas en vez de depender de una única pareja de cartas.
+- Poder seguir operando bajo ciertas piezas de stax gracias a que paga vida en lugar de maná negro.
 
-## Error frecuente
+## Recursos que hay que contar
 
-> La vida no es infinita. Un tutor aparentemente barato puede dejar la línea sin suficiente vida o maná genérico para terminar.
+Antes de iniciar una línea, anotá mentalmente cuatro recursos:
 
-## Lista limpia para impresión
+1. **Vida:** cada símbolo negro puede costar dos.
+2. **Maná genérico:** K'rrik no lo reemplaza.
+3. **Cuerpos:** Razaketh, Culling the Weak, Sacrifice, Phyrexian Tower y Sidisi exigen criaturas.
+4. **Cementerio:** reanimación, Corpse Dance, Yawgmoth's Will, Shrouded Lore y Xiahou Dun dependen de él.
 
-Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 0 cartas del sideboard/considering board del export.
+La mayoría de los errores ocurre cuando el piloto cuenta sólo la vida y descubre demasiado tarde que falta un maná genérico o un cuerpo.
+
+## Plan de juego por etapas
+
+### Turno cero y mulligan
+
+Buscá una mano que pueda hacer una de estas cosas:
+
+- Jugar K'rrik muy temprano.
+- Entomb/Unmarked Grave seguido de reanimación.
+- Resolver un tutor que encuentre una cadena completa.
+- Desarrollar Necropotence con vida y maná suficientes.
+- Interrumpir una victoria rival mientras prepara la propia.
+
+No alcanza con “tener mucho fast mana”. La mano debe responder qué hará después de jugar K'rrik.
+
+### Primer intento
+
+Los intentos tempranos suelen comenzar por:
+
+- K'rrik + tutor.
+- Entomb/Buried Alive + Animate Dead/Reanimate/Necromancy/Shallow Grave.
+- Hoarding Broodlord o Razaketh.
+- Necropotence para reconstruir una mano enorme.
+- Beseech the Mirror con bargain habilitado.
+
+Si la mesa está preparada, puede ser mejor resolver un motor o una criatura de tutor que intentar atravesar tres manos abiertas.
+
+### Reconstrucción
+
+La lista no es únicamente “all-in”:
+
+- Yawgmoth's Will vuelve a usar rituales y tutores.
+- Balthor y Chainer recuperan criaturas.
+- Corpse Dance y Shallow Grave explotan la parte superior del cementerio.
+- Xiahou Dun recupera cartas negras.
+- Agatha's Soul Cauldron reutiliza habilidades de criaturas exiliadas.
+- Gray Merchant ofrece un cierre alternativo cuando la partida se alarga.
+
+## Mulligan detallado
+
+### Buenas manos
+
+Una buena mano normalmente incluye:
+
+- Una fuente de maná genérico.
+- Uno o dos rituales/rocas.
+- Tutor o forma de poner una criatura en cementerio.
+- Reanimación o payoff.
+- Vida suficiente para la cadena.
+
+Patrones fuertes:
+
+- K'rrik turno uno o dos con tutor inmediato.
+- Entomb + Reanimate con protección mediante Vexing Bauble o una secuencia que niegue interacción.
+- Buried Alive + reanimación.
+- Necropotence temprana sin gastar toda la vida.
+- Lake of the Dead/Peat Bog/Crystal Vein combinadas con un payoff real.
+
+### Manos trampa
+
+- K'rrik rápido pero sin tutor, motor ni cementerio.
+- Múltiples criaturas caras que no pueden ponerse en el cementerio.
+- Sólo rituales negros y ningún maná genérico.
+- Una línea que deja la vida por debajo del coste de los últimos símbolos negros.
+- Razaketh sin criatura adicional para sacrificar.
+- Reanimación sin objetivo ni forma de descartarlo.
+
+## Línea de Necrotic Ooze
+
+La lista contiene:
+
+- Necrotic Ooze.
+- Asmodeus the Archfiend.
+- Skirge Familiar.
+- Buried Alive y varios tutores de cementerio.
+
+El objetivo es colocar Asmodeus y Skirge Familiar en el cementerio y tener Necrotic Ooze en juego. Ooze obtiene sus habilidades activadas.
+
+Secuencia conceptual:
+
+1. Usar la habilidad de Asmodeus para exiliar cartas que se “robarían”.
+2. Usar la habilidad correspondiente para llevar esas cartas a la mano.
+3. Descartar cartas mediante la habilidad de Skirge Familiar y producir maná negro.
+4. Convertir la nueva mano en rituales, tutores y una condición de victoria.
+
+La línea exige comprobar la redacción exacta de Asmodeus y el orden de activación. No activés automáticamente siete cartas si la vida o el maná no sostienen la continuación.
+
+## Razaketh
+
+Razaketh convierte cada criatura y dos vidas en Demonic Tutor.
+
+Fuentes de cuerpos:
+
+- Blood Pet.
+- Blood Celebrant.
+- Overeager Apprentice.
+- Soldevi Adnate.
+- El propio K'rrik si existe una línea de recursión.
+- Criaturas reanimadas o duplicadas con Saw in Half.
+
+Antes de reanimar a Razaketh, contá cuántos sacrificios están realmente disponibles. Una cadena típica busca:
+
+1. Ritual o fuente de maná.
+2. Otra criatura/cuerpo.
+3. Reanimación o protección.
+4. La pieza final.
+
+Saw in Half puede multiplicar un objetivo de tutor o generar cuerpos adicionales, pero su valor depende de qué criatura esté en juego.
+
+## Hoarding Broodlord
+
+Hoarding Broodlord convierte una reanimación en acceso a cualquier carta mediante convoke. Es especialmente fuerte cuando:
+
+- K'rrik ya reduce los símbolos negros.
+- Hay criaturas disponibles para convocar.
+- El hechizo exiliado puede iniciar otra cadena de tutor o reanimación.
+- Beseech the Mirror puede jugarse con bargain.
+
+No supongas que “Broodlord = victoria” sin contar el maná genérico del hechizo exiliado.
+
+## Paquete de cementerio
+
+### Entomb y Unmarked Grave
+
+Buscan la criatura que la mano ya puede explotar. El mejor objetivo cambia:
+
+- Asmodeus/Skirge si se prepara Ooze.
+- Razaketh si hay cuerpos.
+- Hoarding Broodlord si hay una ruta de convoke.
+- Sidisi si se necesita un tutor al entrar.
+- Balthor/Chainer si la partida se dirige a recursión.
+
+### Buried Alive
+
+No es obligatorio buscar siempre el mismo trío. Puede preparar:
+
+- Ooze + Asmodeus + Skirge.
+- Una criatura de reanimación inmediata más dos piezas para turnos posteriores.
+- Balthor junto con amenazas que luego regresará.
+
+### Reanimación instantánea
+
+Shallow Grave y Corpse Dance dependen del orden del cementerio. Evitá colocar una carta irrelevante encima del objetivo antes de usarlas.
+
+## Necropotence
+
+Necropotence es un motor y potencialmente una condición de una carta.
+
+- Pagá la vida en relación con el maná genérico disponible.
+- Las cartas descartadas se exilian, por lo que no alimentan reanimación.
+- Emergence Zone permite convertir la mano del final del turno en una victoria a velocidad instantánea.
+- No pagues hasta uno o dos puntos de vida si la mesa tiene daño incidental o efectos de pérdida.
+
+## Tutores y transmute
+
+La lista juega una densidad extraordinaria:
+
+- Demonic Tutor, Vampiric Tutor e Imperial Seal.
+- Beseech the Mirror/Queen.
+- Dark Petition, Grim Tutor y Diabolic Tutor.
+- Mausoleum Secrets.
+- Fleshwrither y Dimir House Guard como herramientas de búsqueda específicas.
+- Final Parting, Entomb, Vile Entomber y Unmarked Grave para cementerio.
+- Sidisi como tutor sobre criatura.
+
+Regla práctica: buscá **la próxima acción que mantiene abierta la cadena**, no la carta final si todavía no puede lanzarse.
+
+## Interacción y protección
+
+K'rrik no cuenta con counters azules; su protección es distinta:
+
+- Vexing Bauble modifica la capacidad de responder con hechizos gratuitos.
+- Bitter Triumph y Blast Zone eliminan permanentes problemáticos.
+- Praetor's Grasp puede tomar una condición de victoria o una respuesta.
+- Emergence Zone cambia el momento del intento.
+- Malakir Rebirth y Not Dead After All protegen criaturas de tutor.
+- Talon Gates of Madara puede salvar o reutilizar una criatura.
+- Demonic Consultation puede buscar una respuesta en emergencia, con riesgo real.
+
+## Contra stax
+
+El archivo afirma que la lista puede jugar razonablemente a través de stax, pero no todas las piezas son iguales:
+
+- Rule of Law ralentiza las cadenas largas.
+- Grafdigger's Cage y Containment Priest atacan la reanimación.
+- Cursed Totem afecta habilidades de criaturas.
+- Null Rod limita rocas, pero no evita pagar vida por símbolos negros.
+- Drannith no bloquea al comandante una vez lanzado, pero puede impedir recasts.
+
+No gastes la única remoción en una pieza que todavía permite ejecutar la línea elegida.
+
+## Errores frecuentes
+
+1. No contar maná genérico.
+2. Pagar vida antes de determinar el número completo de símbolos negros.
+3. Reanimar Razaketh sin cuerpos.
+4. Desordenar el cementerio antes de Corpse Dance/Shallow Grave.
+5. Mulliganear sólo por velocidad y quedarse sin acción.
+6. Tratar a Necropotence como “robar todo” sin considerar cleanup y exilio.
+7. Elegir un objetivo de Entomb antes de decidir qué línea permite la mano.
+
+## Referencia rápida antes de jugar
+
+- **Mulligan:** exigí maná, una acción concreta y una secuencia para los primeros turnos.
+- **Antes de intentar ganar:** contá maná, protección, puntos de interacción y plan posterior si te detienen.
+- **Durante la pila:** anunciá objetivos, disparos y prioridades con claridad.
+- **Loops:** demostrálos una vez y declarales una cantidad concreta.
+- **Consulta:** la guía puede permanecer junto al mazo durante la partida.
+
+## Lista limpia de 100 cartas
 
 ```text
 1 K'rrik, Son of Yawgmoth (PJ21) 2 *F*

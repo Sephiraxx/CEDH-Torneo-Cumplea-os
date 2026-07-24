@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sisay, Weatherlight Captain"
-description: "Guía de piloto de Sisay"
+description: "Guía extensa de piloto de Sisay"
 permalink: /mazos-y-guias/sisay/
 ---
 
@@ -18,38 +18,255 @@ permalink: /mazos-y-guias/sisay/
 **Rol:** Toolbox-combo legendario de cinco colores  
 **Dificultad:** Muy alta  
 **Final principal:** Oath of Teferi + Nicol Bolas + Aminatou  
-**Plan secundario:** Emiel + Derevi + productor de maná
+**Plan secundario:** Emiel + Derevi o Ioreth + Marvin
 
-## Plan de juego
+> Esta guía utiliza la lista limpia de 100 cartas y la información estratégica contenida en el TXT exportado. Cuando el primer describe una versión histórica, se distingue de la lista actual.
 
-Desarrollar maná y permanentes legendarios hasta que Sisay pueda encadenar tutores desde la zona de comando. La lista se adapta a la mesa mediante piezas legendarias y luego inicia una cadena difícil de interrumpir.
+## Resumen operativo
+
+Sisay es un toolbox adaptativo de cinco colores. El plan no es “robar las piezas correctas”; la propia comandante las coloca directamente en juego. El mazo se vuelve más inevitable a medida que:
+
+- Hace land drops.
+- Desarrolla dorks/rocas.
+- Acumula permanentes legendarios que aumentan el poder de Sisay.
+- Encuentra un productor WUBRG.
+- Empieza una cadena de tutores.
+
+El primer la describe como una máquina de Rube Goldberg: una criatura de maná y una pequeña apertura pueden convertirse en una cadena completa.
+
+## Requisitos del motor
+
+Para activar a Sisay se necesita WUBRG. Además, el valor de maná de la leyenda buscada no puede superar su poder.
+
+Por eso cada permanente cumple varias funciones:
+
+- Produce maná.
+- Aporta símbolos de color al poder de Sisay.
+- Endereza otro productor.
+- Protege la cadena.
+- Es una pieza del combo final.
+
+## Plan de juego por etapas
+
+### Apertura
+
+El primer recomienda ramp agresivo, intentando aproximadamente duplicar el maná disponible:
+
+- Turno uno: terminar con dos.
+- Turno dos: acercarse a cuatro.
+- Turno tres: seis o más.
+
+No es un mazo turbo puro; una mano que no gana turno dos puede ser excelente si desarrolla productores y protección.
+
+### Desarrollo
+
+Prioridades:
+
+1. Productor multicolor: Bloom Tender, Selvala, Jegantha, Enduring Vitality/Esika, Chromatic Orrery.
+2. Sisay.
+3. Leyendas de colores que aumenten poder.
+4. Protección: Teferi, Jennifer Walters, Lavinia, Silence.
+5. Enderezador: Derevi, Tyvar, Aminatou, Saheeli en versiones históricas o piezas actuales equivalentes.
+
+### Cadena
+
+Antes de activar Sisay por primera vez, escribí mentalmente:
+
+- Qué pieza buscás.
+- Cómo se endereza la fuente.
+- Cuánto poder tendrá Sisay después.
+- Qué colores quedan.
+- Qué pasa si responden con removal u Opposition Agent.
 
 ## Mulligan
 
-- Aceleración temprana, preferentemente un productor que pueda llegar a varios colores.
-- Una ruta hacia Sisay y suficiente poder legendario para ampliar su rango de tutor.
-- Interacción barata o una pieza que proteja la cadena.
-- No conservar manos llenas de payoffs legendarios sin una curva de maná.
+### Buenas manos
 
-## Líneas principales
+- Dork turno uno.
+- Segundo productor o roca.
+- Dos o tres colores reales.
+- Tutor o motor de cartas.
+- Interacción que permita volver a tu turno.
 
-1. Oath: ensamblar Oath of Teferi, Nicol Bolas, Dragon-God y Aminatou para generar activaciones repetidas de planeswalker y dominar la mesa.
-2. Emiel/Derevi: Emiel vuelve a disparar a Derevi para enderezar Bloom Tender, Selvala u otro productor y generar maná o flickers infinitos.
-3. Marvin/Ioreth: copiar habilidades de enderezar junto con una leyenda productora de maná puede formar otro motor infinito.
+### Malas manos
 
-## Prioridades
+- Muchas leyendas caras sin dork.
+- Una sola fuente que produce WUBRG y ninguna protección.
+- Sisay rápida pero poder dos y sin forma de crecer.
+- Mano de counters que no progresa.
+- Gaea's Cradle sin criaturas.
+- Colores que no permiten lanzar la interacción guardada.
 
-- Con un productor WUBRG, Sisay puede encadenar Derevi, Aminatou y las piezas de Oath.
-- Enlightened Tutor suele buscar Agatha's Soul Cauldron, Oath of Teferi o un motor.
-- Teferi y los efectos de silencio deben aparecer antes de comprometer la cadena.
+## Línea Oath of Nicol
 
-## Error frecuente
+Piezas:
 
-> Activar Sisay sin plan de cadena puede dejar una colección de permanentes valiosos pero ninguna victoria. Calcular toda la escalera de costes antes de empezar.
+- Oath of Teferi.
+- Nicol Bolas, Dragon-God.
+- Aminatou, the Fateshifter.
 
-## Lista limpia para impresión
+Concepto:
 
-Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 1 cartas del sideboard/considering board del export.
+- Nicol Bolas puede usar habilidades de otros planeswalkers.
+- Aminatou puede parpadear y resetear permanentes.
+- Oath permite activaciones adicionales.
+
+Cadena ejemplificada por el primer:
+
+1. Un productor WUBRG permite buscar Derevi, Tyvar o una pieza que lo enderece.
+2. La siguiente activación busca Aminatou.
+3. Aminatou resetea el enderezador y permite volver a producir WUBRG.
+4. Buscar Nicol Bolas.
+5. Bolas copia la habilidad de Aminatou y ayuda a resetearla.
+6. Buscar Oath of Teferi.
+7. Aminatou y Bolas se resetean repetidamente, generando activaciones y flickers infinitos.
+
+Cierres actuales:
+
+- Mount Doom con maná/flickers.
+- Orcish Bowmasters no está en esta lista actual; no debe asumirse como cierre disponible.
+- Otras leyendas presentes pueden convertir activaciones infinitas en control total o daño según el estado.
+
+Como la lista cambia con frecuencia, verificá siempre cuál es el outlet incluido antes del evento.
+
+## Emiel + Derevi
+
+Piezas:
+
+- Emiel the Blessed.
+- Derevi.
+- Productor que genere al menos cuatro manás por ciclo: Gaea's Cradle, Chromatic Orrery o dork suficientemente grande.
+
+Secuencia:
+
+1. Producí maná.
+2. Pagá a Emiel para parpadear Derevi.
+3. Derevi entra y endereza el productor.
+4. Repetí.
+5. Generá maná y flickers arbitrarios.
+
+Después:
+
+- Buscar Mount Doom.
+- Usar Kinnan para desplegar la biblioteca.
+- Dibujar cartas mediante un motor que pueda resetearse.
+- Crear un lock de Ertai si la versión lo incluyera; Ertai no está en la lista actual, por lo que esa nota del primer es histórica.
+
+## Ioreth + Marvin
+
+La lista actual contiene:
+
+- Ioreth of the Healing House.
+- Marvin, Murderous Mimic.
+- Varias leyendas que pueden girarse para maná mediante Esika/Enduring Vitality o que ya tienen habilidades de maná.
+
+Concepto:
+
+1. Marvin copia habilidades activadas de otras criaturas.
+2. Ioreth endereza hasta dos legendarias.
+3. Una tercera leyenda produce maná.
+4. Marvin actúa como otro Ioreth y alterna enderezados.
+5. Con haste y producción suficiente, el ciclo genera maná infinito.
+
+La línea depende de que todas las criaturas relevantes puedan girarse ese turno.
+
+## Agatha's Soul Cauldron
+
+Cauldron ofrece:
+
+- Graveyard hate.
+- Contadores que aumentan poder.
+- Copia de habilidades activadas.
+- Recuperación virtual de Bloom Tender/Selvala si mueren.
+- Conversión de una criatura cualquiera en productor de colores.
+
+Es una de las piezas más importantes para crear cadenas no obvias. Antes de exiliar una criatura rival, revisá si una criatura propia en cementerio ofrece la habilidad necesaria.
+
+## Dihada
+
+Dihada puede:
+
+- Aumentar el poder/color de Sisay.
+- Proteger una leyenda.
+- Moler cartas y producir Tesoros.
+- Dar el salto de maná hacia la cadena Oath.
+
+Su -3 tiene riesgo: puede poner piezas de combo en mano/cementerio en una secuencia incómoda. Usala cuando el maná adicional compensa esa variancia.
+
+## Kinnan oculto
+
+La lista funciona parcialmente como “Hidden Kinnan”:
+
+- Dorks y rocas producen maná extra.
+- Kinnan es una leyenda de dos colores para poder de Sisay.
+- Con maná infinito, Kinnan ofrece un outlet alternativo.
+- Puede permitir ganar sin activar varias veces a Sisay.
+
+No busques Kinnan automáticamente: contra turbo, Lavinia/Teferi o interacción puede ser más urgente.
+
+## Tutores no Sisay
+
+- Enlightened Tutor: Cauldron, Oath, motor o roca.
+- Chord of Calling: dork/enderezador a velocidad instantánea.
+- Green Sun's Zenith: productor verde, Enduring Vitality o Selvala.
+- Demonic/Vampiric Tutor: pieza exacta.
+- Worldly Tutor: criatura de protección, productor o enderezador.
+
+El mejor uso temprano suele ser **ramp**, no una pieza final que todavía no puede lanzarse.
+
+## Protección e interacción
+
+### Prioridad máxima
+
+- Opposition Agent.
+- Cursed Totem.
+- Blood Moon/Back to Basics.
+- Weathered Runestone/Grafdigger's Cage/Containment Priest.
+- Drana and Linvala.
+- Suppression Field.
+- Torpor Orb.
+- Orcish Bowmasters contra dorks de resistencia uno.
+
+### Piezas que a veces ayudan
+
+- Rule of Law.
+- Trinisphere.
+- Sphere of Resistance.
+- Lavinia.
+- Defense Grid.
+
+Estas piezas ralentizan a los mazos turbo y Sisay puede activar habilidades sin lanzar muchos hechizos.
+
+### Herramientas
+
+- Teferi, Time Raveler se busca como Silence legendario.
+- Jennifer Walters es otra protección legendaria.
+- Legolas's Quick Reflexes protege, endereza y puede remover.
+- Abrupt Decay elimina Totem/Opposition-type permanents sin ser contrarrestado.
+- Strix Serenade responde a criaturas/artefactos/planeswalkers problemáticos según el tipo.
+- Into the Flood Maw y Colossal Skyturtle ofrecen bounce.
+- Mindbreak Trap ayuda a “volver a tu turno”.
+
+## Errores frecuentes
+
+1. Activar Sisay sin plan de cadena.
+2. No contar el poder después de cada leyenda.
+3. No contar WUBRG exacto.
+4. Buscar una pieza de combo que ya está en mano y es difícil de lanzar.
+5. Gastar Force of Will exiliando una pieza azul esencial.
+6. Remover Rule of Law que mantiene controlado a turbo.
+7. Olvidar summoning sickness en Bloom Tender, Selvala, Ioreth o Marvin.
+8. Seguir líneas históricas del primer con outlets no incluidos en la lista actual.
+
+## Referencia rápida antes de jugar
+
+- **Mulligan:** exigí maná, una acción concreta y una secuencia para los primeros turnos.
+- **Antes de intentar ganar:** contá maná, protección, puntos de interacción y plan posterior si te detienen.
+- **Durante la pila:** anunciá objetivos, disparos y prioridades con claridad.
+- **Loops:** demostrálos una vez y declarales una cantidad concreta.
+- **Consulta:** la guía puede permanecer junto al mazo durante la partida.
+
+## Lista limpia de 100 cartas
 
 ```text
 1 Sisay, Weatherlight Captain (H1R) 6 *F*

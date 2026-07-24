@@ -4,7 +4,7 @@ title: Mazos y guías
 permalink: /mazos-y-guias/
 ---
 
-# Mazos y guías
+# Mazos y guías extensas
 
 [← Volver a la portada]({{ '/' | relative_url }})
 
@@ -24,3 +24,6 @@ permalink: /mazos-y-guias/
 [Descargar las ocho listas limpias]({{ '/mazos-y-guias/00_Listas_Limpias_8_Mazos.txt' | relative_url }})
 
 Los sideboards, considering boards y primers no forman parte de estos archivos.
+
+
+[Consultar el criterio de fuentes y versiones](../FUENTES_Y_ALCANCE_GUIAS.md)

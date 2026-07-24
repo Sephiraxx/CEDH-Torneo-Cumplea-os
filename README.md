@@ -27,7 +27,30 @@ Proyecto de ocho mazos de **Commander competitivo** para un torneo de cumpleaño
 
 Cada mazo tiene:
 
-- Una guía de piloto en español.
+- Una guía extensa de piloto en español, basada en el primer incluido en su TXT.
 - Una lista limpia de exactamente 100 cartas.
 - Enlace a Moxfield cuando fue proporcionado.
 - Mulligan, líneas principales, prioridades y errores frecuentes.
+
+## Sideboards eliminados
+
+Los exports originales incluían cartas adicionales que no deben imprimirse:
+
+- Kinnan: 63.
+- Raph & Mikey: 30.
+- Tivit: 17.
+- Najeela: 9.
+- Sisay: 1.
+- Blue Farm, K'rrik y RogSi: 0.
+
+Ninguna de esas cartas aparece en las listas limpias.
+
+## GitHub Pages
+
+La portada se genera desde `index.md`. Las instrucciones de despliegue están en [`PUBLICAR_EN_GITHUB_PAGES.md`](PUBLICAR_EN_GITHUB_PAGES.md).
+
+## Guías extensas
+
+Las guías ahora incluyen identidad, plan por etapas, mulligan, líneas paso a paso, mapa de tutores, interacción, matchups, reglas críticas y errores frecuentes.
+
+Cuando el TXT corresponde a una versión anterior, la guía prioriza las 100 cartas actuales y marca las diferencias.

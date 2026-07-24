@@ -6,7 +6,7 @@ description: Ocho mazos competitivos para un torneo rotativo
 
 # Birthday cEDH Gauntlet
 
-Ocho mazos completos de cEDH preparados para un torneo de ocho jugadores con rotación aleatoria de listas.
+Ocho mazos completos de cEDH preparados para un torneo de ocho jugadores, con listas limpias y primers extensos en español.
 
 <div class="deck-actions">
   <a class="deck-button" href="{{ '/mazos-y-guias/' | relative_url }}">Ver mazos y guías</a>
@@ -109,3 +109,18 @@ Ocho mazos completos de cEDH preparados para un torneo de ocho jugadores con rot
 ## Archivos de impresión
 
 Los archivos de decklist contienen **solamente las 100 cartas principales**. Los sideboards y considering boards de Moxfield fueron eliminados, incluyendo las 63 cartas adicionales de Kinnan y las 30 de Raph & Mikey.
+
+## Guías de piloto
+
+Cada guía contiene:
+
+- Identidad y función del mazo.
+- Plan de juego por etapas.
+- Criterios de mulligan y manos trampa.
+- Líneas de victoria paso a paso.
+- Mapa de tutores.
+- Paquete de interacción y protección.
+- Matchups y piezas de stax.
+- Reglas críticas y errores frecuentes.
+
+Las explicaciones históricas de los TXT se compararon con las listas actuales para evitar enseñar combos con cartas que ya no se imprimen en el mazo.
