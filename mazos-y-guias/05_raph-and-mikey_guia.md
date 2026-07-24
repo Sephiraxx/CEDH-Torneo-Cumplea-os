@@ -24,7 +24,24 @@ permalink: /mazos-y-guias/raph-and-mikey/
 
 ## Nota sobre la fuente
 
-El TXT contiene una transcripción extensa de una versión anterior y la lista actual de 100 cartas. La transcripción analiza Blightsteel Colossus, Hellkite Charger y otras cartas que **ya no están en el mazo principal**. Esta guía conserva los principios útiles —ramp, ataques adicionales, criaturas que funcionan al entrar atacando y orden de disparos— pero aplica todo a la lista actual.
+El TXT mezcla nombres Oracle, nombres alternativos oficiales y nombres temáticos de impresiones especiales. La lista actual **sí conserva las líneas descritas con Blightsteel Colossus y con la criatura de combates adicionales**: `FAS-BOR7 Horus` es la impresión con nombre alternativo de **Blightsteel Colossus**, mientras que **Raphael, Tag Team Tough** ocupa en esta versión el rol estratégico que el primer explica mediante **Hellkite Charger**. No tienen el mismo texto, por lo que la secuencia y el punto de interacción cambian.
+
+## Nombres alternativos utilizados en la lista
+
+La guía utilizará primero el nombre visible en el archivo y, entre paréntesis, el nombre Oracle cuando corresponda:
+
+| Nombre visible | Carta Oracle o función |
+|---|---|
+| **FAS-BOR7 Horus** | **Blightsteel Colossus** |
+| **Battle of Olympus** | **World at War** |
+| **The Blades of Chaos Bond** | **Rite of Flame** |
+| **Calliope's Song** | **Seething Song** |
+| **Chaos Emerald** | **Lotus Petal** |
+| **The Spire** | **Command Tower** |
+| **Vivi's Thunder Magic** | **Lightning Bolt** |
+| **Raphael, Tag Team Tough** | Pieza actual de combate adicional que reemplaza funcionalmente la línea de **Hellkite Charger** |
+
+Estos nombres alternativos no representan cartas adicionales: son la misma carta Oracle o, en el caso de Raphael, la pieza actual que cumple el rol equivalente dentro del plan.
 
 ## Identidad
 
@@ -91,16 +108,40 @@ No es necesario atacar al mismo jugador con todas las criaturas. Distribuir ataq
 
 ## Criaturas clave actuales
 
+### FAS-BOR7 Horus — Blightsteel Colossus
+
+Es uno de los impactos más letales del comandante:
+
+- Entra girado y atacando.
+- Tiene trample.
+- Inflige daño en forma de contadores de veneno por infect.
+- Once puntos sin bloquear eliminan inmediatamente a un jugador.
+- Incluso con un bloqueador pequeño, el trample puede hacer pasar suficientes contadores para alcanzar diez.
+
+Como **no necesita haber sido declarado atacante**, funciona perfectamente con Raph & Mikey. Ésta era precisamente una de las líneas importantes del primer original y sigue presente bajo el nombre alternativo `FAS-BOR7 Horus`.
+
+Al elegir oponente:
+
+1. Priorizá a quien no tenga bloqueador suficiente.
+2. Contá la resistencia total que absorberá el trample.
+3. Recordá que daño marcado y contadores -1/-1 pueden modificar los siguientes combates.
+4. Si hay un efecto de combate adicional, podés dirigir a Blightsteel hacia otro jugador sólo si el efecto permite volver a declarar a esa criatura.
+
 ### Raphael, Tag Team Tough
 
-Cuando conecta por primera vez en el turno:
+Es la pieza actual que cubre el espacio estratégico de **Hellkite Charger**, pero funciona de otra manera:
 
-- Endereza a todos los atacantes.
-- Crea un combate adicional.
+- Hellkite Charger dispara al ser declarado atacante y exige pagar {5}{R}{R}.
+- Raphael dispara al hacer daño de combate a un jugador por primera vez durante el turno.
+- Raphael endereza a todos los atacantes y crea el combate sin pago adicional.
+- Menace aumenta la probabilidad de conectar.
+- Si entra atacando mediante Raph & Mikey, **sí puede disparar**, porque su condición es hacer daño y no «cuando ataque».
 
-Menace aumenta la probabilidad de conectar. Es uno de los mejores impactos porque el siguiente combate vuelve a disparar al comandante.
+Esto hace a Raphael especialmente apropiado para el comandante: puede aparecer desde la biblioteca, conectar y generar inmediatamente el siguiente combate. En ese nuevo combate se vuelve a declarar a Raph & Mikey y se obtiene otra criatura.
 
-Si Raphael y otra fuente de combate adicional disparan en el mismo combate, recordá que crear “un combate adicional” varias veces puede no producir la cantidad esperada según el efecto y la secuencia. Anotá cada efecto por separado.
+La frase «por primera vez» se comprueba para cada jugador dañado. Si Raphael logra hacer daño a jugadores diferentes en combates posteriores, puede generar más de un combate adicional durante el mismo turno.
+
+Si Raphael y Port Razer disparan en el mismo combate, ordená ambos disparos con cuidado. Las criaturas se enderezan cuando resuelve cada habilidad, no automáticamente al comenzar el combate adicional.
 
 ### Port Razer
 
@@ -164,7 +205,7 @@ Leé la carta exacta antes de declarar la línea.
 Cuando atacan Raph & Mikey y otra criatura con disparo:
 
 - Poné el disparo del comandante de forma que resuelva antes si necesitás conocer qué criatura entra antes de decidir pagar otro combate.
-- Si Hellkite Charger no está en la lista actual, ignorá las secuencias antiguas de la transcripción que dependen de él.
+- Las secuencias del primer que utilizan **Hellkite Charger** deben leerse en esta versión junto a **Raphael, Tag Team Tough**. Ambos crean combates adicionales, pero Hellkite exige atacar y pagar {5}{R}{R}; Raphael exige hacer daño de combate por primera vez a un jugador. No intercambies sus condiciones.
 - Con Raphael/Port Razer, el daño debe ocurrir; la remoción antes de daño corta la cadena.
 - Old Gnawbone debe estar en juego cuando se hace daño para crear Tesoros.
 
