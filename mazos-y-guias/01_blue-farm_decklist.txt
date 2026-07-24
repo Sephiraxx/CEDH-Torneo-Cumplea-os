@@ -1,0 +1,100 @@
+1 Kraum, Ludevic's Opus (C16) 34 *F*
+1 Tymna the Weaver (C16) 48 *F*
+1 Ad Nauseam (SOA) 155 *F*
+1 An Offer You Can't Refuse (SLP) 7 *F*
+1 Ancient Tomb (PUMA) U31 *F*
+1 Arcane Signet (SLD) 1492★ *F*
+1 Arid Mesa (SPG) 114 *F*
+1 Badlands (3ED) 282
+1 Beseech the Mirror (WOE) 336 *F*
+1 Bhujerba, Floating City (SCH) 41 *F*
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 311 *F*
+1 Bloodstained Mire (MH3) 352 *F*
+1 Borne Upon a Wind (SLD) 2228 *F*
+1 Brain Freeze (SCG) 29 *F*
+1 Cabal Ritual (TOR) 51 *F*
+1 Cavern of Souls (PUMA) U32 *F*
+1 Chain of Vapor (ONS) 73 *F*
+1 Chaos Emerald (SLD) 7033 *F*
+1 Chrome Mox (SPG) 92 *F*
+1 Command Tower (SLD) 1697 *F*
+1 Culling the Weak (SOA) 27 *F*
+1 Dark Ritual (SLD) 1170 *F*
+1 Deflecting Swat (CMM) 698 *F*
+1 Demonic Consultation (SLD) 1127 *F*
+1 Demonic Tutor (CMM) 696 *F*
+1 Diabolic Intent (PLS) 42 *F*
+1 Dragon's Rage Channeler (SLD) 2053 *F*
+1 Enlightened Tutor (J20) 2 *F*
+1 Esper Sentinel (MH2) 12 *F*
+1 Exotic Orchard (PIP) 1023 *F*
+1 Fellwar Stone (CMM) 657 *F*
+1 Fierce Guardianship (CMM) 694 *F*
+1 Final Fortune (7ED) 182★ *F*
+1 Flare of Duplication (MH3) 333 *F*
+1 Flashback (SOS) 333 *F*
+1 Flooded Strand (MH3) 353 *F*
+1 Flusterstorm (SOA) 148 *F*
+1 Force of Negation (2X2) 346 *F*
+1 Force of Will (2XM) 340 *F*
+1 Gamble (SPG) 24 *F*
+1 Glittering Caves of Aglarond (LTC) 394 *F*
+1 Grand Abolisher (CMM) 625 *F*
+1 Hexing Squelcher (ECL) 317 *F*
+1 Imperial Seal (J16) 6 *F*
+1 Into the Flood Maw (BLB) 52 *F*
+1 Intuition (G03) 1 *F*
+1 Jeska's Will (CMR) 668 *F*
+1 Joshua Rosfield (PF25) 11 *F*
+1 Knights of San d'Oria (FCA) 2 *F*
+1 Knuckles the Echidna (SLD) 2082 *F*
+1 Last Chance (DMR) 435 *F*
+1 Lion's Eye Diamond (MIR) 307
+1 Lotho, Corrupt Shirriff (LTR) 370 *F*
+1 Mana Confluence (SLD) 1012a *F*
+1 Mana Vault (PUMA) U29 *F*
+1 Marsh Flats (SPG) 115 *F*
+1 Mental Misstep (PMEI) 2023-1 *F*
+1 Misty Rainforest (SPG) 116 *F*
+1 Mnemonic Betrayal (GRN) 189 *F*
+1 Mockingbird (BLB) 305 *F*
+1 Mox Amber (BRR) 98 *F*
+1 Mox Diamond (V10) 10 *F*
+1 Mox Opal (2XM) 362 *F*
+1 Mystic Remora (SLD) 406 *F*
+1 Mystical Tutor (SLD) 334 *F*
+1 Necropotence (WOT) 94 *F*
+1 Otawara, Soaring City (NEO) 503 *F*
+1 Pact of Negation (LTC) 523 *F*
+1 Plateau (3ED) 284
+1 Polluted Delta (MH3) 356 *F*
+1 Porom's Silence Magic (SLD) 7003 *F*
+1 Ragavan, Nimble Pilferer (MH2) 315 *F*
+1 Rain of Filth (SLD) 1547★ *F*
+1 Red Elemental Blast (A25) 147 *F*
+1 Scalding Tarn (SPG) 117 *F*
+1 Scrubland (3ED) 286
+1 Sevinne's Reclamation (DMR) 27 *F*
+1 Simian Spirit Guide (SLD) 1548★ *F*
+1 Smothering Tithe (2X2) 342 *F*
+1 Snapback (TSP) 78 *F*
+1 Sol Ring (CMM) 703 *F*
+1 Spire of Industry (PIP) 1039 *F*
+1 Stay with Me (FCA) 31 *F*
+1 Swan Song (SLD) 1591 *F*
+1 Tainted Pact (ODY) 164 *F*
+1 Tarnished Citadel (ODY) 329 *F*
+1 Tataru Taru (FIC) 466 *F*
+1 Thassa's Oracle (THB) 308 *F*
+1 The Blades of Chaos Bond (SLD) 2209 *F*
+1 Tundra (3ED) 289
+1 Underground Sea (3ED) 290
+1 Underworld Breach (THB) 324 *F*
+1 Valley Floodcaller (BLB) 308 *F*
+1 Vampiric Tutor (CMR) 656 *F*
+1 Verdant Catacombs (SPG) 118 *F*
+1 Voice of Victory (TDM) 331 *F*
+1 Volcanic Island (3ED) 291
+1 Wheel of Fortune (G10) 7 *F*
+1 Windswept Heath (MH3) 360 *F*
+1 Wishclaw Talisman (ELD) 357 *F*

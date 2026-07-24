@@ -1,0 +1,149 @@
+---
+layout: default
+title: "K'rrik, Son of Yawgmoth"
+description: "Guía de piloto de K'rrik"
+permalink: /mazos-y-guias/krrik/
+---
+
+# K'rrik, Son of Yawgmoth
+
+<nav class="deck-nav">
+  <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice</a>
+  <a href="{{ '/mazos-y-guias/03_krrik_decklist.txt' | relative_url }}">Lista limpia</a>
+  <a href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/najeela/' | relative_url }}">← Najeela</a>
+  <a href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Kinnan →</a>
+</nav>
+
+**Rol:** Turbo-combo y reanimación mono negra  
+**Dificultad:** Muy alta  
+**Final principal:** Necrotic Ooze + Asmodeus + Skirge Familiar  
+**Plan secundario:** Cadenas de reanimación con Razaketh o Hoarding Broodlord
+
+## Plan de juego
+
+Tratar la vida como maná, resolver a K'rrik y encadenar rituales y tutores hacia una línea de cementerio. La lista está construida para intentos muy tempranos y requiere calcular vida, maná negro y cuerpos sacrificables con precisión.
+
+## Mulligan
+
+- Fast mana que permita a K'rrik o un tutor explosivo temprano.
+- Un tutor o acceso al cementerio: Entomb, Buried Alive, Unmarked Grave, Vile Entomber o Final Parting.
+- Una reanimación o una criatura que convierta el tutor en una cadena.
+- Vida suficiente para pagar los símbolos negros de la secuencia completa.
+
+## Líneas principales
+
+1. Ooze: colocar Asmodeus the Archfiend y Skirge Familiar en el cementerio y reanimar Necrotic Ooze. Ooze roba siete con la habilidad de Asmodeus y descarta cartas para generar negro mediante Skirge Familiar.
+2. Razaketh: reanimarlo y convertir criaturas o recursos prescindibles en una cadena de tutores hasta ensamblar el cierre.
+3. Hoarding Broodlord y Sidisi convierten una reanimación en tutor; Chainer, Corpse Dance y Xiahou Dun aportan líneas de recursión.
+
+## Prioridades
+
+- Buried Alive suele preparar la pila de Ooze.
+- Entomb y Unmarked Grave buscan la criatura cuya reanimación ya esté disponible.
+- Antes de pagar vida, escribir mentalmente la secuencia completa y conservar el maná genérico necesario.
+
+## Error frecuente
+
+> La vida no es infinita. Un tutor aparentemente barato puede dejar la línea sin suficiente vida o maná genérico para terminar.
+
+## Lista limpia para impresión
+
+Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 0 cartas del sideboard/considering board del export.
+
+```text
+1 K'rrik, Son of Yawgmoth (PJ21) 2 *F*
+1 Agatha's Soul Cauldron (PWOE) 242s *F*
+1 Ancient Tomb (V12) 1 *F*
+1 Animate Dead (CED) 93
+1 Arcane Signet (SLD) 201 *F*
+1 Asmodeus the Archfiend (PAFR) 88s *F*
+1 Balthor the Defiled (JUD) 61 *F*
+1 Beseech the Mirror (WOE) 82 *F*
+1 Beseech the Queen (V16) 1 *F*
+1 Bitter Triumph (LCI) 91 *F*
+1 Blast Zone (SLU) 504 *F*
+1 Blood Celebrant (LGN) 61 *F*
+1 Blood Pet (7ED) 121★ *F*
+1 Buried Alive (ODY) 118 *F*
+1 Cabal Ritual (V16) 2 *F*
+1 Chainer, Dementia Master (TOR) 56 *F*
+1 Chrome Mox (PGPX) 2009 *F*
+1 City of Traitors (EXO) 143
+1 Corpse Dance (TMP) 116
+1 Crystal Vein (PD3) 24 *F*
+1 Culling the Weak (EXO) 55
+1 Cynical Loner (DSK) 89 *F*
+1 Dark Petition (PORI) 90s *F*
+1 Dark Ritual (G09) 1 *F*
+1 Demonic Consultation (ICE) 121
+1 Demonic Tutor (CED) 105
+1 Diabolic Tutor (ODY) 129 *F*
+1 Dimir House Guard (RAV) 83 *F*
+1 Doctor Doom, Unrivaled (MSC) 654 *F*
+1 Emergence Zone (WAR) 245 *F*
+1 Entomb (G11) 4 *F*
+1 Exhume (PD3) 17 *F*
+1 Final Parting (DOM) 93 *F*
+1 Fleshwrither (FUT) 84 *F*
+1 Gemstone Caverns (TSR) 280 *F*
+1 Gray Merchant of Asphodel (THB) 355 *F*
+1 Grim Monolith (ULG) 126 *F*
+1 Grim Servant (MH3) 409 *F*
+1 Grim Tutor (PM21) 103s *F*
+1 Heartless Summoning (ISD) 104 *F*
+1 Hoarding Broodlord (PMOM) 110s *F*
+1 Imperial Seal (J16) 6 *F*
+1 Insatiable Avarice (POTJ) 91s *F*
+1 Jet Medallion (TMP) 292
+1 Jeweled Amulet (ICE) 326
+1 Lake of the Dead (ALL) 140
+1 Lion's Eye Diamond (MIR) 307
+1 Lotus Petal (TMP) 294
+1 Malakir Rebirth / Malakir Mire (ZNR) 111 *F*
+1 Mana Vault (CED) 260
+1 Mausoleum Secrets (PGRN) 75s *F*
+1 Mox Amber (PDOM) 224s *F*
+1 Mox Diamond (STH) 138
+1 Necromancy (VIS) 64
+1 Necropotence (DKM) 7 *F*
+1 Necrotic Ooze (SOM) 72 *F*
+1 Not Dead After All (WOE) 101 *F*
+1 Nykthos, Shrine to Nyx (THS) 223 *F*
+1 Overeager Apprentice (ODY) 154 *F*
+1 Peat Bog (MMQ) 322
+1 Persist (PMH2) 96s *F*
+1 Phyrexian Tower (UMA) 248 *F*
+1 Praetor's Grasp (NPH) 71 *F*
+1 Rain of Filth (USG) 151
+1 Razaketh, the Foulblooded (PHOU) 73s *F*
+1 Reanimate (F04) 10 *F*
+1 Sacrifice (CED) 125
+1 Saw in Half (UNF) 374 *F*
+1 Shallow Grave (MIR) 141
+1 Shrouded Lore (PLC) 91 *F*
+1 Sidisi, Undead Vizier (PDTK) 120s *F*
+1 Skirge Familiar (USG) 157
+1 Sol Ring (CC2) 7 *F*
+1 Soldevi Adnate (ALL) 60a
+1 Springleaf Drum (2XM) 291 *F*
+15 Swamp (PAL01) 9 *F*
+1 Talon Gates of Madara (M3C) 134
+1 Unmarked Grave (PMH2) 106s *F*
+1 Urborg, Tomb of Yawgmoth (V12) 13 *F*
+1 Urza's Saga (MH2) 380 *F*
+1 Vampiric Tutor (G00) 2 *F*
+1 Vexing Bauble (MH3) 212 *F*
+1 Vile Entomber (MH2) 403 *F*
+1 Wishclaw Talisman (PELD) 110s *F*
+1 Xiahou Dun, the One-Eyed (J12) 1 *F*
+1 Yawgmoth's Will (G07) 3 *F*
+```
+
+<nav class="deck-nav">
+  <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice</a>
+  <a href="{{ '/mazos-y-guias/03_krrik_decklist.txt' | relative_url }}">Lista limpia</a>
+  <a href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/najeela/' | relative_url }}">← Najeela</a>
+  <a href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Kinnan →</a>
+</nav>

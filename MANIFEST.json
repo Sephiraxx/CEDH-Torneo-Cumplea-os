@@ -1,94 +1,69 @@
 {
-  "decks": [
-    {
-      "name": "RogSi — Rograkh / Silas Renn",
-      "cards": 100,
-      "commanders": [
-        "Rograkh, Son of Rohgahh",
-        "Silas Renn, Seeker Adept"
-      ],
-      "guide": "01_RogSi_Guia_de_Piloto.md",
-      "import": "01_RogSi_Moxfield.txt"
-    },
+  "version": "4.1",
+  "roster": [
     {
       "name": "Blue Farm — Tymna / Kraum",
       "cards": 100,
-      "commanders": [
-        "Kraum, Ludevic's Opus",
-        "Tymna the Weaver"
-      ],
-      "guide": "02_Blue_Farm_Guia_de_Piloto.md",
-      "import": "02_Blue_Farm_Moxfield.txt"
+      "sideboard_removed": 0,
+      "moxfield": "https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w",
+      "decklist_file": "01_blue-farm_decklist.txt",
+      "guide_file": "01_blue-farm_guia.md"
+    },
+    {
+      "name": "Najeela, the Blade-Blossom",
+      "cards": 100,
+      "sideboard_removed": 9,
+      "moxfield": "https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA",
+      "decklist_file": "02_najeela_decklist.txt",
+      "guide_file": "02_najeela_guia.md"
+    },
+    {
+      "name": "K'rrik, Son of Yawgmoth",
+      "cards": 100,
+      "sideboard_removed": 0,
+      "moxfield": "https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g",
+      "decklist_file": "03_krrik_decklist.txt",
+      "guide_file": "03_krrik_guia.md"
     },
     {
       "name": "Kinnan, Bonder Prodigy",
       "cards": 100,
-      "commanders": [
-        "Kinnan, Bonder Prodigy"
-      ],
-      "guide": "03_Kinnan_Guia_de_Piloto.md",
-      "import": "03_Kinnan_Moxfield.txt"
+      "sideboard_removed": 63,
+      "moxfield": "https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw",
+      "decklist_file": "04_kinnan_decklist.txt",
+      "guide_file": "04_kinnan_guia.md"
     },
     {
-      "name": "Magda, Brazen Outlaw",
+      "name": "Raph & Mikey, Troublemakers",
       "cards": 100,
-      "commanders": [
-        "Magda, Brazen Outlaw"
-      ],
-      "guide": "04_Magda_Guia_de_Piloto.md",
-      "import": "04_Magda_Moxfield.txt"
+      "sideboard_removed": 30,
+      "moxfield": "https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ",
+      "decklist_file": "05_raph-and-mikey_decklist.txt",
+      "guide_file": "05_raph-and-mikey_guia.md"
     },
     {
-      "name": "Kefka, Court Mage // Kefka, Ruler of Ruin",
+      "name": "RogSi — Rograkh / Silas Renn",
       "cards": 100,
-      "commanders": [
-        "Kefka, Court Mage // Kefka, Ruler of Ruin"
-      ],
-      "guide": "05_Kefka_Guia_de_Piloto.md",
-      "import": "05_Kefka_Moxfield.txt"
+      "sideboard_removed": 0,
+      "moxfield": "https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ",
+      "decklist_file": "06_rogsi_decklist.txt",
+      "guide_file": "06_rogsi_guia.md"
     },
     {
-      "name": "Ral, Monsoon Mage // Ral, Leyline Prodigy",
+      "name": "Sisay, Weatherlight Captain",
       "cards": 100,
-      "commanders": [
-        "Ral, Monsoon Mage // Ral, Leyline Prodigy"
-      ],
-      "guide": "06_Ral_Guia_de_Piloto.md",
-      "import": "06_Ral_Moxfield.txt"
+      "sideboard_removed": 1,
+      "moxfield": "https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA",
+      "decklist_file": "07_sisay_decklist.txt",
+      "guide_file": "07_sisay_guia.md"
     },
     {
-      "name": "Yuriko, the Tiger's Shadow",
+      "name": "Tivit, Seller of Secrets",
       "cards": 100,
-      "commanders": [
-        "Yuriko, the Tiger's Shadow"
-      ],
-      "guide": "07_Yuriko_Guia_de_Piloto.md",
-      "import": "07_Yuriko_Moxfield.txt"
-    },
-    {
-      "name": "Etali, Primal Conqueror // Etali, Primal Sickness",
-      "cards": 100,
-      "commanders": [
-        "Etali, Primal Conqueror // Etali, Primal Sickness"
-      ],
-      "guide": "08_Etali_Guia_de_Piloto.md",
-      "import": "08_Etali_Moxfield.txt"
+      "sideboard_removed": 17,
+      "moxfield": "https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ",
+      "decklist_file": "08_tivit_decklist.txt",
+      "guide_file": "08_tivit_guia.md"
     }
-  ],
-  "stickers_removed": true,
-  "replacements": {
-    "Ral": "Baral, Chief of Compliance",
-    "Etali": "Generator Servant"
-  },
-  "moxfield_links": {
-    "RogSi — Rograkh / Silas Renn": "https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ",
-    "Blue Farm — Tymna / Kraum": "https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w",
-    "Kinnan, Bonder Prodigy": "https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw",
-    "Magda, Brazen Outlaw": "https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ",
-    "Kefka, Court Mage // Kefka, Ruler of Ruin": "https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g",
-    "Ral, Monsoon Mage // Ral, Leyline Prodigy": "https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ",
-    "Yuriko, the Tiger's Shadow": "https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA",
-    "Etali, Primal Conqueror // Etali, Primal Sickness": "https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA"
-  },
-  "version": 3
+  ]
 }

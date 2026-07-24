@@ -1,0 +1,163 @@
+---
+layout: default
+title: "Najeela, the Blade-Blossom"
+description: "Guía de piloto de Najeela"
+permalink: /mazos-y-guias/najeela/
+---
+
+# Najeela, the Blade-Blossom
+
+<nav class="deck-nav">
+  <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice</a>
+  <a href="{{ '/mazos-y-guias/02_najeela_decklist.txt' | relative_url }}">Lista limpia</a>
+  <a href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">← Blue Farm</a>
+  <a href="{{ '/mazos-y-guias/krrik/' | relative_url }}">K'rrik →</a>
+</nav>
+
+**Rol:** Combat-combo de cinco colores  
+**Dificultad:** Media–Alta  
+**Final principal:** Najeela + Derevi para repetir combates  
+**Plan secundario:** Thassa's Oracle o Underworld Breach
+
+## Plan de juego
+
+Bajar a Najeela temprano, presionar con Guerreros y protegerla mientras se prepara Derevi. La lista también puede ignorar por completo el combate y cerrar con Oracle o Breach.
+
+## Mulligan
+
+- Una criatura de maná o fast mana que permita una Najeela temprana.
+- Acceso razonable a los cinco colores para activar a Najeela más adelante.
+- Un tutor, motor de ventaja o pieza de protección.
+- Una mano que pueda pivotar si Najeela es removida.
+
+## Líneas principales
+
+1. Derevi: los disparos de daño de combate enderezan permanentes que producen WUBRG; activar Najeela crea otro combate y repite el proceso.
+2. Oracle: Thassa's Oracle más Demonic Consultation o Tainted Pact.
+3. Breach: Underworld Breach, Lion's Eye Diamond y Brain Freeze proporcionan el cierre desde el cementerio.
+
+## Prioridades
+
+- Summoner's Pact, Worldly Tutor, Eladamri's Call y Green Sun's Zenith acceden a Derevi o al acelerador necesario.
+- Ranger-Captain of Eos y Voice of Victory protegen el turno decisivo.
+- Los tutores de cinco colores deben completar la ruta más corta, no sobreextender la mesa.
+
+## Error frecuente
+
+> Contar los disparos reales de Derevi y las fuentes de colores antes de activar; muchos Guerreros no equivalen automáticamente a combates infinitos.
+
+## Lista limpia para impresión
+
+Esta sección contiene únicamente las **100 cartas del mazo principal**. Se eliminaron 9 cartas del sideboard/considering board del export.
+
+```text
+1 Najeela, the Blade-Blossom (BBD) 62 *F*
+1 Ad Nauseam (ALA) 63 *F*
+1 Ancient Tomb (EXP) 36 *F*
+1 Arcane Signet (SLD) 1492★ *F*
+1 Arid Mesa (EXP) 24 *F*
+1 Badlands (3ED) 282
+1 Bayou (3ED) 283
+1 Birds of Paradise (DMR) 336 *F*
+1 Bloodstained Mire (EXP) 18 *F*
+1 Brain Freeze (SCG) 29 *F*
+1 Chain of Vapor (ONS) 73 *F*
+1 Chrome Mox (MPS) 9 *F*
+1 City of Brass (PSUS) 6 *F*
+1 Command Tower (J12) 8 *F*
+1 Culling Ritual (STX) 172 *F*
+1 Culling the Weak (PMEI) 2023-8 *F*
+1 Dark Ritual (MMQ) 129 *F*
+1 Deathrite Shaman (RVR) 363 *F*
+1 Deflecting Swat (CMM) 698 *F*
+1 Delighted Halfling (LTR) 402 *F*
+1 Demonic Consultation (ICE) 121
+1 Demonic Tutor (G08) 3 *F*
+1 Derevi, Empyrial Tactician (CMA) 176 *F*
+1 Diabolic Intent (PLS) 42 *F*
+1 Eladamri's Call (PLS) 106 *F*
+1 Elvish Spirit Guide (SLD) 423 *F*
+1 Enlightened Tutor (PAL00) 6 *F*
+1 Esper Sentinel (MH2) 328 *F*
+1 Exotic Orchard (SLD) 1231 *F*
+1 Fierce Guardianship (CMM) 694 *F*
+1 Final Fortune (7ED) 182★ *F*
+1 Flooded Strand (EXP) 16 *F*
+1 Flusterstorm (J12) 2 *F*
+1 Forbidden Orchard (EXP) 39 *F*
+1 Force of Will (EMA) 49 *F*
+1 Gamble (DMR) 321 *F*
+1 Gemstone Caverns (TSP) 274 *F*
+1 Gitaxian Probe (NPH) 35 *F*
+1 Green Sun's Zenith (MBS) 81 *F*
+1 Hexing Squelcher (ECL) 317 *F*
+1 Ignoble Hierarch (MH2) 414 *F*
+1 Imperial Seal (J16) 6 *F*
+1 Intuition (G03) 1 *F*
+1 Lion's Eye Diamond (MIR) 307
+1 Lotho, Corrupt Shirriff (LTR) 781 *F*
+1 Lotus Petal (MPS) 15 *F*
+1 Mana Confluence (EXP) 42 *F*
+1 Mana Vault (MPS) 17 *F*
+1 Marsh Flats (EXP) 21 *F*
+1 Mental Misstep (NPH) 38 *F*
+1 Mindbreak Trap (ZEN) 57 *F*
+1 Misty Rainforest (EXP) 25 *F*
+1 Mockingbird (BLB) 305 *F*
+1 Mox Amber (BRR) 35 *F*
+1 Mox Diamond (V10) 10 *F*
+1 Mox Opal (MPS) 19 *F*
+1 Mystic Remora (ICE) 87
+1 Mystical Tutor (DMR) 289 *F*
+1 Noble Hierarch (J12) 3 *F*
+1 Pact of Negation (A25) 68 *F*
+1 Plateau (3ED) 284
+1 Polluted Delta (EXP) 17 *F*
+1 Ragavan, Nimble Pilferer (MH2) 315 *F*
+1 Ranger-Captain of Eos (H1R) 5 *F*
+1 Red Elemental Blast (A25) 147 *F*
+1 Rhystic Study (WOT) 25 *F*
+1 Rite of Flame (SS3) 7 *F*
+1 Samut, Vizier of Naktamun (MAT) 180 *F*
+1 Scalding Tarn (EXP) 22 *F*
+1 Scrubland (3ED) 286
+1 Sevinne's Reclamation (DMR) 273 *F*
+1 Silence (TSR) 302 *F*
+1 Simian Spirit Guide (PLC) 122 *F*
+1 Smothering Tithe (2X2) 342 *F*
+1 Sol Ring (MPS) 24 *F*
+1 Starting Town (FIN) 289 *F*
+1 Summoner's Pact (A25) 189 *F*
+1 Swan Song (THS) 65 *F*
+1 Swords to Plowshares (F01) 6 *F*
+1 Taiga (3ED) 287
+1 Tainted Pact (ODY) 164 *F*
+1 Tarnished Citadel (ODY) 329 *F*
+1 Thassa's Oracle (SLD) 1280 *F*
+1 The Ball (SLD) 1040 *F*
+1 The Cabbage Merchant (TLE) 134 *F*
+1 Tinder Wall (ICE) 270
+1 Tropical Island (3ED) 288
+1 Tundra (3ED) 289
+1 Underground Sea (3ED) 290
+1 Underworld Breach (THB) 161 *F*
+1 Vampiric Tutor (DMR) 314 *F*
+1 Veil of Summer (M20) 198 *F*
+1 Verdant Catacombs (EXP) 23 *F*
+1 Voice of Victory (TDM) 331
+1 Volcanic Island (3ED) 291
+1 Warrior's Oath (2X2) 130 *F*
+1 Windswept Heath (EXP) 20 *F*
+1 Wishclaw Talisman (ELD) 110 *F*
+1 Wooded Foothills (EXP) 19 *F*
+1 Worldly Tutor (DMR) 353 *F*
+```
+
+<nav class="deck-nav">
+  <a href="{{ '/mazos-y-guias/' | relative_url }}">← Índice</a>
+  <a href="{{ '/mazos-y-guias/02_najeela_decklist.txt' | relative_url }}">Lista limpia</a>
+  <a href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+  <a href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">← Blue Farm</a>
+  <a href="{{ '/mazos-y-guias/krrik/' | relative_url }}">K'rrik →</a>
+</nav>

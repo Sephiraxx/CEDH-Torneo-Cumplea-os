@@ -1,124 +1,111 @@
 ---
 layout: default
 title: Birthday cEDH Gauntlet
-description: Ocho mazos competitivos para un torneo rotativo de cEDH
+description: Ocho mazos competitivos para un torneo rotativo
 ---
 
 # Birthday cEDH Gauntlet
 
-Ocho mazos completos de **Commander competitivo sin límite de presupuesto**, preparados para un torneo de ocho jugadores con pods y asignación de mazos aleatorios.
+Ocho mazos completos de cEDH preparados para un torneo de ocho jugadores con rotación aleatoria de listas.
 
 <div class="deck-actions">
   <a class="deck-button" href="{{ '/mazos-y-guias/' | relative_url }}">Ver mazos y guías</a>
-  <a class="deck-button secondary" href="{{ '/mazos-y-guias/00_All_8_Moxfield_Imports.txt' | relative_url }}">Descargar respaldo de las ocho listas</a>
+  <a class="deck-button secondary" href="{{ '/mazos-y-guias/00_Listas_Limpias_8_Mazos.txt' | relative_url }}">Descargar las ocho listas limpias</a>
 </div>
 
-## Los ocho mazos
+## Roster definitivo
 
 <div class="deck-grid">
 <article class="deck-card">
-  <h3>RogSi</h3>
-  <p class="deck-meta">Turbo-combo Grixis · Dificultad Alta</p>
-  <p class="deck-finish"><strong>Final principal:</strong><br>Underworld Breach + Lion's Eye Diamond + Brain Freeze</p>
-  <div class="deck-actions">
-    <a class="deck-button" href="https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/rogsi/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/01_RogSi_Moxfield.txt' | relative_url }}">.txt</a>
-  </div>
-</article>
-<article class="deck-card">
   <h3>Blue Farm</h3>
-  <p class="deck-meta">Midrange-combo de cuatro colores · Dificultad Media–Alta</p>
+  <p class="deck-meta">Turbo-midrange de cuatro colores · Dificultad Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Thassa's Oracle + Demonic Consultation o Tainted Pact</p>
   <div class="deck-actions">
     <a class="deck-button" href="https://moxfield.com/decks/8g1Q0BFzQ0K8YbJ59cun2w" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/02_Blue_Farm_Moxfield.txt' | relative_url }}">.txt</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/blue-farm/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/01_blue-farm_decklist.txt' | relative_url }}">Lista limpia</a>
+  </div>
+</article>
+<article class="deck-card">
+  <h3>Najeela</h3>
+  <p class="deck-meta">Combat-combo de cinco colores · Dificultad Media–Alta</p>
+  <p class="deck-finish"><strong>Final principal:</strong><br>Najeela + Derevi para repetir combates</p>
+  <div class="deck-actions">
+    <a class="deck-button" href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/najeela/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/02_najeela_decklist.txt' | relative_url }}">Lista limpia</a>
+  </div>
+</article>
+<article class="deck-card">
+  <h3>K'rrik</h3>
+  <p class="deck-meta">Turbo-combo y reanimación mono negra · Dificultad Muy alta</p>
+  <p class="deck-finish"><strong>Final principal:</strong><br>Necrotic Ooze + Asmodeus + Skirge Familiar</p>
+  <div class="deck-actions">
+    <a class="deck-button" href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/krrik/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/03_krrik_decklist.txt' | relative_url }}">Lista limpia</a>
   </div>
 </article>
 <article class="deck-card">
   <h3>Kinnan</h3>
-  <p class="deck-meta">Combo de maná Simic · Dificultad Media</p>
+  <p class="deck-meta">Combo de maná Simic · Dificultad Media–Alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Kinnan + Basalt Monolith</p>
   <div class="deck-actions">
     <a class="deck-button" href="https://moxfield.com/decks/Z3gmXrW1Q0qzAhU8lrpNvw" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/03_Kinnan_Moxfield.txt' | relative_url }}">.txt</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/kinnan/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/04_kinnan_decklist.txt' | relative_url }}">Lista limpia</a>
   </div>
 </article>
 <article class="deck-card">
-  <h3>Magda</h3>
-  <p class="deck-meta">Toolbox-combo mono rojo · Dificultad Media–Alta</p>
-  <p class="deck-finish"><strong>Final principal:</strong><br>Dualcaster Mage + Heat Shimmer o Molten Duplication</p>
+  <h3>Raph & Mikey</h3>
+  <p class="deck-meta">Turbo-combate Gruul · Dificultad Media–Alta</p>
+  <p class="deck-finish"><strong>Final principal:</strong><br>Ataques repetidos con Raphael o Port Razer</p>
   <div class="deck-actions">
     <a class="deck-button" href="https://moxfield.com/decks/TNB0MbjVWEGxmKPHl2YnEQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/magda/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/04_Magda_Moxfield.txt' | relative_url }}">.txt</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/raph-and-mikey/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/05_raph-and-mikey_decklist.txt' | relative_url }}">Lista limpia</a>
   </div>
 </article>
 <article class="deck-card">
-  <h3>Kefka</h3>
-  <p class="deck-meta">Midrange-combo Grixis · Dificultad Media–Alta</p>
-  <p class="deck-finish"><strong>Final principal:</strong><br>Thassa's Oracle + Demonic Consultation o Tainted Pact</p>
-  <div class="deck-actions">
-    <a class="deck-button" href="https://moxfield.com/decks/ZAx-l28TG0aY1oTpYEjR1g" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/kefka/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/05_Kefka_Moxfield.txt' | relative_url }}">.txt</a>
-  </div>
-</article>
-<article class="deck-card">
-  <h3>Ral</h3>
-  <p class="deck-meta">Turbo storm Izzet · Dificultad Alta</p>
+  <h3>RogSi</h3>
+  <p class="deck-meta">Turbo-combo Grixis · Dificultad Muy alta</p>
   <p class="deck-finish"><strong>Final principal:</strong><br>Underworld Breach + Lion's Eye Diamond + Brain Freeze</p>
   <div class="deck-actions">
-    <a class="deck-button" href="https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/ral/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/06_Ral_Moxfield.txt' | relative_url }}">.txt</a>
+    <a class="deck-button" href="https://moxfield.com/decks/IXsn3AhZFUyHU1_cYdQIdQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/rogsi/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/06_rogsi_decklist.txt' | relative_url }}">Lista limpia</a>
   </div>
 </article>
 <article class="deck-card">
-  <h3>Yuriko</h3>
-  <p class="deck-meta">Tempo-combo Dimir · Dificultad Media</p>
-  <p class="deck-finish"><strong>Final principal:</strong><br>Thassa's Oracle + Demonic Consultation o Tainted Pact</p>
+  <h3>Sisay</h3>
+  <p class="deck-meta">Toolbox-combo legendario de cinco colores · Dificultad Muy alta</p>
+  <p class="deck-finish"><strong>Final principal:</strong><br>Oath of Teferi + Nicol Bolas + Aminatou</p>
   <div class="deck-actions">
     <a class="deck-button" href="https://moxfield.com/decks/HOAzAjkpq0K-iEEAqnqgnA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/yuriko/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/07_Yuriko_Moxfield.txt' | relative_url }}">.txt</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/sisay/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/07_sisay_decklist.txt' | relative_url }}">Lista limpia</a>
   </div>
 </article>
 <article class="deck-card">
-  <h3>Etali</h3>
-  <p class="deck-meta">Turbo creature-combo Gruul · Dificultad Media</p>
-  <p class="deck-finish"><strong>Final principal:</strong><br>Dualcaster Mage + hechizo de copia</p>
+  <h3>Tivit</h3>
+  <p class="deck-meta">Midrange-control Esper · Dificultad Media–Alta</p>
+  <p class="deck-finish"><strong>Final principal:</strong><br>Tivit + Time Sieve</p>
   <div class="deck-actions">
-    <a class="deck-button" href="https://moxfield.com/decks/hf8QLb7w80WGrlmPPFqDcA" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/etali/' | relative_url }}">Guía</a>
-    <a class="deck-button secondary" href="{{ '/mazos-y-guias/08_Etali_Moxfield.txt' | relative_url }}">.txt</a>
+    <a class="deck-button" href="https://moxfield.com/decks/0dQxwvhR00KGIsQ_zKlYDQ" target="_blank" rel="noopener noreferrer">Moxfield ↗</a>
+<a class="deck-button" href="{{ '/mazos-y-guias/tivit/' | relative_url }}">Guía</a>
+<a class="deck-button secondary" href="{{ '/mazos-y-guias/08_tivit_decklist.txt' | relative_url }}">Lista limpia</a>
   </div>
 </article>
 </div>
 
-## Filosofía de balance
-
-- **RogSi y Ral** representan turbo y buscan los intentos más tempranos.
-- **Blue Farm, Kefka y Yuriko** compiten mediante interacción, selección y resiliencia.
-- **Kinnan, Magda y Etali** explotan motores centrados en el comandante y permanentes de mesa.
-- Mismo entorno competitivo no significa idéntica velocidad de goldfish: cada lista amenaza desde un eje distinto.
-
 ## Formato del evento
 
-- En cada ronda se forman **dos pods aleatorios de cuatro jugadores**.
-- Los pods se vuelven a sortear en cada ronda.
-- Los mazos también se asignan al azar.
-- Se registra qué mazos utilizó cada jugador para evitar repeticiones cuando existan alternativas.
-- Todos los mazos se entregan completos, enfundados y con sus tokens, fichas, contadores y ayudas de memoria.
-- La guía correspondiente permanece junto al mazo y puede consultarse durante la partida.
-- Antes de comenzar, cada jugador dispone de unos minutos para revisar el mulligan y las líneas principales.
+- Dos pods aleatorios de cuatro jugadores en cada ronda.
+- Los pods y los mazos se vuelven a sortear.
+- Se registra qué mazos usó cada jugador para intentar evitar repeticiones.
+- Todos los mazos se entregan enfundados y con tokens, contadores y ayudas.
+- Las guías pueden consultarse durante las partidas.
 
-> El desafío debe ser decidir cuándo actuar, evaluar amenazas y navegar la pila; no memorizar una lista prestada de cien cartas.
+## Archivos de impresión
 
-## Ajustes sin stickers
-
-- **Ral:** `_____ Goblin` fue sustituido por **Baral, Chief of Compliance**.
-- **Etali:** `_____ Goblin` fue sustituido por **Generator Servant**.
-- Las secciones y las diez cartas de stickers fueron eliminadas completamente.
+Los archivos de decklist contienen **solamente las 100 cartas principales**. Los sideboards y considering boards de Moxfield fueron eliminados, incluyendo las 63 cartas adicionales de Kinnan y las 30 de Raph & Mikey.
